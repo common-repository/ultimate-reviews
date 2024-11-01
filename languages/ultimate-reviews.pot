@@ -1,0 +1,2087 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Reviews\n"
+"POT-Creation-Date: 2021-04-12 17:20-0400\n"
+"PO-Revision-Date: 2021-04-12 17:20-0400\n"
+"Last-Translator: \n"
+"Language-Team: Etoile Web Design\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ewd-urp-templates/pagination.php:14
+msgid " of "
+msgstr ""
+
+#: ewd-urp-templates/review-read-more.php:3
+msgid "Read More"
+msgstr ""
+
+#: ewd-urp-templates/submit-review-field-explanation.php:16
+#: ewd-urp-templates/submit-review-field-review-body.php:16
+msgid "Characters remaining:"
+msgstr ""
+
+#: ewd-urp-templates/submit-review-field-product-name-hidden.php:2
+msgid "Review of "
+msgstr ""
+
+#: ewd-urp-templates/submit-review-field-review-categories.php:4
+#: includes/CustomPostTypes.class.php:91
+#: includes/InstallationWalkthrough.class.php:253
+#: includes/Settings.class.php:264
+msgid "Review Category"
+msgstr ""
+
+#: ewd-urp-templates/submit-review-field-review-categories.php:23
+msgid "The category that the review will be listed under."
+msgstr ""
+
+#: ewd-urp-templates/submit-review-field-review-element-review-item-select.php:18
+#: ewd-urp-templates/submit-review-field-review-element-review-item-stars.php:20
+#: ewd-urp-templates/submit-review-field-review-element-review-item-text.php:12
+msgid "out of "
+msgstr ""
+
+#: ewd-urp-templates/submit-review-field-review-image.php:4
+#: includes/Settings.class.php:242
+msgid "Review Image"
+msgstr ""
+
+#: ewd-urp-templates/submit-review-field-review-image.php:14
+msgid "The image that should be associated with your review"
+msgstr ""
+
+#: ewd-urp-templates/submit-review-field-review-video.php:4
+#: includes/Settings.class.php:253
+msgid "Review Video"
+msgstr ""
+
+#: ewd-urp-templates/submit-review-field-review-video.php:14
+msgid ""
+"A link to a video for this review from an external site (YouTube, Vimeo, "
+"etc.)."
+msgstr ""
+
+#: ewd-urp-templates/submit-review-login.php:2
+msgid "Please log in to leave a review"
+msgstr ""
+
+#: ewd-urp-templates/submit-review-login.php:7
+msgid "Login now"
+msgstr ""
+
+#: ewd-urp-templates/submit-review-toggle-button.php:2
+msgid "Click to add your own review!"
+msgstr ""
+
+#: ewd-urp-templates/summary-statistics-return.php:3
+msgid "Back to Summary"
+msgstr ""
+
+#: ewd-urp-templates/summary-statistics.php:5
+msgid "Summary for "
+msgstr ""
+
+#: ewd-urp-templates/wc-rating.php:30 includes/WooCommerce.class.php:663
+#, php-format
+msgid "Rated %s out of %s"
+msgstr ""
+
+#: ewd-urp-templates/wc-rating.php:33 includes/WooCommerce.class.php:666
+#, php-format
+msgid "out of %s"
+msgstr ""
+
+#: includes/Ajax.class.php:159
+msgid "Read Less"
+msgstr ""
+
+#: includes/Blocks.class.php:82
+msgid "Ultimate Reviews"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:43 includes/CustomPostTypes.class.php:45
+#: includes/CustomPostTypes.class.php:46 includes/WooCommerce.class.php:577
+#: includes/WooCommerce.class.php:640 ultimate-reviews.php:339
+msgid "Reviews"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:44 includes/Settings.class.php:1687
+#: views/View.class.php:119
+msgid "Review"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:47
+msgid "Add New"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:48
+msgid "Add New Review"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:49
+msgid "Edit Review"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:50
+msgid "New Review"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:51
+msgid "View Review"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:52 views/View.class.php:134
+msgid "Search Reviews"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:53
+msgid "No reviews found"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:54
+msgid "No reviews found in trash"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:55
+msgid "All Reviews"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:90 includes/CustomPostTypes.class.php:100
+msgid "Review Categories"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:92
+msgid "Search Review Categories"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:93
+msgid "All Review Categories"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:94
+msgid "Parent Review Category"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:95
+msgid "Parent Review Category:"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:96
+msgid "Edit Review Category"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:97
+msgid "Update Review Category"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:98
+msgid "Add New Review Category"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:99
+msgid "New Review Category Name"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:190
+msgid "WooCommerce Order ID:"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:201
+msgid "Review Karma:"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:212
+msgid "Reviewer's Email:"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:223
+msgid "Email Confirmed:"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:235
+msgid "Review Video:"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:256
+msgid "Product Name:"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:263
+msgid "Post Author:"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:274
+msgid "Overall Score:"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:292
+msgid " Score"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:359
+msgid "Explanation:"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:511
+msgid "Use the following shortcode to add this review to a page:"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:526
+msgid "# of Views"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:527
+msgid "Product"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:528 includes/Settings.class.php:1487
+#: views/View.class.php:111 views/View.class.php:120
+msgid "Score"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:529
+msgid "Post ID"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:531
+msgid "Inappropriate Flag"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:678
+msgid "Show All Products"
+msgstr ""
+
+#: includes/Dashboard.class.php:50 ultimate-reviews.php:336
+msgid "Approved Reviews"
+msgstr ""
+
+#: includes/Dashboard.class.php:56 ultimate-reviews.php:337
+msgid "Awaiting Approval"
+msgstr ""
+
+#: includes/Dashboard.class.php:120
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Visit our website</a> to learn how to "
+"upgrade to premium."
+msgstr ""
+
+#: includes/Dashboard.class.php:167
+msgid "Title"
+msgstr ""
+
+#: includes/Dashboard.class.php:168
+msgid "Views"
+msgstr ""
+
+#: includes/Dashboard.class.php:169
+msgid "Review Rating"
+msgstr ""
+
+#: includes/Dashboard.class.php:174
+msgid ""
+"No reviews to display yet. Create a review and then view it for it to be "
+"displayed here."
+msgstr ""
+
+#: includes/Dashboard.class.php:256
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Visit our website</a> to learn how to get a "
+"free 7-day trial of the premium plugin."
+msgstr ""
+
+#: includes/DeactivationSurvey.class.php:58
+msgid "Quick Feedback"
+msgstr ""
+
+#: includes/DeactivationSurvey.class.php:59
+msgid ""
+"If you have a moment, please share why you are deactivating Ultimate Reviews:"
+msgstr ""
+
+#: includes/DeactivationSurvey.class.php:74
+msgid "Submit and Deactivate"
+msgstr ""
+
+#: includes/DeactivationSurvey.class.php:75
+msgid "Skip and Deactivate"
+msgstr ""
+
+#: includes/Import.class.php:48
+msgid "Spreadsheet Containing Reviews"
+msgstr ""
+
+#: includes/Import.class.php:55
+msgid "Import reviews from WooCommerce"
+msgstr ""
+
+#: includes/Import.class.php:208
+msgid "Reviews added successfully."
+msgstr ""
+
+#: includes/Import.class.php:220
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+
+#: includes/Import.class.php:223
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+
+#: includes/Import.class.php:226
+msgid "The uploaded file was only partially uploaded"
+msgstr ""
+
+#: includes/Import.class.php:229
+msgid "No file was uploaded."
+msgstr ""
+
+#: includes/Import.class.php:233
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: includes/Import.class.php:236
+msgid "Failed to write file to disk"
+msgstr ""
+
+#: includes/Import.class.php:239
+msgid "File upload stopped by extension"
+msgstr ""
+
+#: includes/Import.class.php:243
+msgid "No error code avaiable"
+msgstr ""
+
+#: includes/Import.class.php:248
+msgid "No file was uploaded here.."
+msgstr ""
+
+#: includes/Import.class.php:253
+msgid "File must be .csv, .xls or .xlsx"
+msgstr ""
+
+#: includes/Import.class.php:379
+msgid "WooCommerce reviews have been succesfully imported."
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:174
+msgid "Welcome to Ultimate Reviews"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:175
+msgid ""
+"Thanks for choosing Ultimate Reviews! The following will help you get "
+"started with the setup by creating pages to accept and display reviews, "
+"configuring a few key options, and creating some review categories."
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:179
+msgid "1. Submit Review Page"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:181
+msgid ""
+"You can create a dedicated submit review page below, or skip this step and "
+"add your submit review form to a page you've already created manually."
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:184
+#: includes/InstallationWalkthrough.class.php:209
+msgid "Page Title"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:192
+#: includes/InstallationWalkthrough.class.php:217
+msgid "Create Page"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:198
+#: includes/InstallationWalkthrough.class.php:223
+#: includes/InstallationWalkthrough.class.php:283
+msgid "Next"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:204
+msgid "2. Display Reviews Page"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:206
+msgid ""
+"You can create a dedicated page for displaying reviews below, or skip this "
+"step and add your review display form to a page you've already created "
+"manually."
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:224
+#: includes/InstallationWalkthrough.class.php:282
+msgid "Previous"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:230
+msgid "3. Set Key Options"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:232
+msgid ""
+"Options can always be changed later, but here are a few tha a lot of users "
+"want to set for themselves."
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:235
+#: includes/Settings.class.php:196
+msgid "Maximum Review Score"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:238
+#: includes/Settings.class.php:197
+msgid ""
+"What should the maximum score be on the review form? Common values are 100 "
+"for the 'percentage' review style, and 5 or 10 for the other styles."
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:242
+#: includes/Settings.class.php:225
+msgid "Review Score Input"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:248
+#: includes/Settings.class.php:226
+msgid ""
+"What type of input should be used for review scores in the submit-review "
+"shortcode?"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:263
+#: includes/Settings.class.php:265
+msgid "Should the reviewer be able to select a category for their review?"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:268
+#: includes/Settings.class.php:275
+msgid "Review Filtering"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:274
+#: includes/Settings.class.php:276
+msgid ""
+"Should visitors be able to filter reviews by product name, score or review "
+"author?"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:280
+msgid "Save Options"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:290
+msgid "4. Categories"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:292
+msgid ""
+"Categories let you organize your reviews in a way that's easy for you - and "
+"your customers - to find."
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:295
+msgid "Category Name"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:301
+msgid "Category Description"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:309
+msgid "Add Category"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:315
+msgid "Created Categories"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:318
+msgid "Name"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:319
+msgid "Description"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:326
+msgid "Previous Step"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:327
+msgid "Finish"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:333
+msgid "Skip Setup"
+msgstr ""
+
+#: includes/Notifications.class.php:39
+msgid "New Review Received"
+msgstr ""
+
+#: includes/Notifications.class.php:41
+msgid "Hello Admin,"
+msgstr ""
+
+#: includes/Notifications.class.php:42
+msgid "You've received a new review for the product "
+msgstr ""
+
+#: includes/Notifications.class.php:43
+msgid "The review reads:<br>"
+msgstr ""
+
+#: includes/Notifications.class.php:45
+msgid "You can view the entire review by going to the following link:<br>"
+msgstr ""
+
+#: includes/Notifications.class.php:46
+msgid "See the review"
+msgstr ""
+
+#: includes/Notifications.class.php:47
+msgid "Have a great day,"
+msgstr ""
+
+#: includes/Notifications.class.php:48
+msgid "Ultimate Reviews Team"
+msgstr ""
+
+#: includes/Notifications.class.php:81
+msgid "Email Confirmation for Product Review"
+msgstr ""
+
+#: includes/Notifications.class.php:83
+msgid "Hello,"
+msgstr ""
+
+#: includes/Notifications.class.php:84
+msgid ""
+"Please confirm your email address for the product review you submitted "
+"titled "
+msgstr ""
+
+#: includes/Notifications.class.php:85
+msgid "by going to the following link:"
+msgstr ""
+
+#: includes/Notifications.class.php:86
+msgid "Confirm your email address"
+msgstr ""
+
+#: includes/Notifications.class.php:87
+msgid "Thank you for the review, and have a great day,"
+msgstr ""
+
+#: includes/Review.class.php:172
+msgid "The number you entered for the image was incorrect."
+msgstr ""
+
+#: includes/Review.class.php:189
+msgid "You have an invalid submission in one of your fields: "
+msgstr ""
+
+#: includes/Review.class.php:199
+msgid ""
+"Your IP address has been blocked from submitting reviews by the site "
+"administrator."
+msgstr ""
+
+#: includes/Review.class.php:276
+msgid ""
+"You have already submitted a review for a product with that product name. "
+"Please select a different product to review."
+msgstr ""
+
+#: includes/Review.class.php:297
+msgid "The name of the review author was not returned as expected."
+msgstr ""
+
+#: includes/Review.class.php:360
+msgid "File must be .jpg or .png."
+msgstr ""
+
+#: includes/Review.class.php:522 includes/Review.class.php:566
+msgid "You have selected an invalid value for this field: "
+msgstr ""
+
+#: includes/Review.class.php:545
+msgid "You have one or more invalid values for this field: "
+msgstr ""
+
+#: includes/ReviewAsk.class.php:57
+msgid "Email Address"
+msgstr ""
+
+#: includes/Settings.class.php:131 includes/Settings.class.php:132
+#: ultimate-reviews.php:263 ultimate-reviews.php:344
+msgid "Settings"
+msgstr ""
+
+#: includes/Settings.class.php:144
+msgid "Basic"
+msgstr ""
+
+#: includes/Settings.class.php:153 includes/Settings.class.php:576
+#: includes/Settings.class.php:1849
+msgid "General"
+msgstr ""
+
+#: includes/Settings.class.php:164 includes/Settings.class.php:175
+msgid "REMINDER:"
+msgstr ""
+
+#: includes/Settings.class.php:165
+msgid "To display reviews, place the [ultimate-reviews] shortcode on a page"
+msgstr ""
+
+#: includes/Settings.class.php:176
+msgid ""
+"To allow visitors to submit reviews, place the [submit-review] shortcode on "
+"a page"
+msgstr ""
+
+#: includes/Settings.class.php:186
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/Settings.class.php:187
+msgid "You can add custom CSS styles to your reviews in the box above."
+msgstr ""
+
+#: includes/Settings.class.php:209
+msgid "Review Style"
+msgstr ""
+
+#: includes/Settings.class.php:210
+msgid "What style should the submit-review form use to collect reviews?"
+msgstr ""
+
+#: includes/Settings.class.php:213
+msgid "Points"
+msgstr ""
+
+#: includes/Settings.class.php:214
+msgid "Percentage"
+msgstr ""
+
+#: includes/Settings.class.php:229 includes/Settings.class.php:433
+msgid "Text"
+msgstr ""
+
+#: includes/Settings.class.php:230
+msgid "Select"
+msgstr ""
+
+#: includes/Settings.class.php:231
+msgid "Stars"
+msgstr ""
+
+#: includes/Settings.class.php:243
+msgid ""
+"Should there be a field for the reviewer to upload an image of what they're "
+"reviewing?"
+msgstr ""
+
+#: includes/Settings.class.php:254
+msgid ""
+"Should there be a field for the reviewer to embed a video with their review "
+"from an external site (YouTube, Vimeo, etc.)?"
+msgstr ""
+
+#: includes/Settings.class.php:291
+msgid "Shortcode Builder"
+msgstr ""
+
+#: includes/Settings.class.php:292
+msgid ""
+"Should a shortcode builder be added to the tinyMCE toolbar in the page "
+"editor?"
+msgstr ""
+
+#: includes/Settings.class.php:300
+msgid "Functionality"
+msgstr ""
+
+#: includes/Settings.class.php:311
+msgid "Submit Review Toggle"
+msgstr ""
+
+#: includes/Settings.class.php:312
+msgid ""
+"Should the submit review form be hidden until a button is clicked to show it?"
+msgstr ""
+
+#: includes/Settings.class.php:322
+msgid "Autocomplete Product Names"
+msgstr ""
+
+#: includes/Settings.class.php:323
+msgid ""
+"Should the names of the available products display in an auto-complete box "
+"when a visitor starts typing? Products need to be entered in the list below "
+"or UPCP Integration has to be turned on for this to work."
+msgstr ""
+
+#: includes/Settings.class.php:333
+msgid "Link To Post"
+msgstr ""
+
+#: includes/Settings.class.php:334
+msgid "Should the review title link to the single post page for the review?"
+msgstr ""
+
+#: includes/Settings.class.php:344
+msgid "Flag Inappropriate Content"
+msgstr ""
+
+#: includes/Settings.class.php:345
+msgid ""
+"Should visitors be able to flag content as inappropriate, so that admins can "
+"then review it?"
+msgstr ""
+
+#: includes/Settings.class.php:355
+msgid "Review Author Links"
+msgstr ""
+
+#: includes/Settings.class.php:356
+msgid ""
+"Should the author's name be clickable, so that visitors can see other "
+"reviews by the same author?"
+msgstr ""
+
+#: includes/Settings.class.php:366
+msgid "Allow Review Comments"
+msgstr ""
+
+#: includes/Settings.class.php:367
+msgid ""
+"Should comments be allowed, if the \"Allow Comments\" box for individual "
+"reviews is selected from the edit review screen?"
+msgstr ""
+
+#: includes/Settings.class.php:377
+msgid "Review Character Limit"
+msgstr ""
+
+#: includes/Settings.class.php:378
+msgid ""
+"What should be the limit on the number of characters in a review? Leave "
+"blank for unlimited characters."
+msgstr ""
+
+#: includes/Settings.class.php:396
+msgid "Submission Thank You Email"
+msgstr ""
+
+#: includes/Settings.class.php:407
+msgid "Products Available for Review"
+msgstr ""
+
+#: includes/Settings.class.php:418
+msgid "Restrict Product Names"
+msgstr ""
+
+#: includes/Settings.class.php:419
+msgid "Should the names of the products be restricted to only those specified?"
+msgstr ""
+
+#: includes/Settings.class.php:429
+msgid "Product Name Input Type"
+msgstr ""
+
+#: includes/Settings.class.php:430
+msgid ""
+"Should the product name input be a text field or a dropdown (select) field? "
+"(Dropdown only works if UPCP integration is turned on or \"Products List\" "
+"is filled in below)"
+msgstr ""
+
+#: includes/Settings.class.php:434 includes/Settings.class.php:1311
+msgid "Dropdown"
+msgstr ""
+
+#: includes/Settings.class.php:445
+msgid "UPCP Integration"
+msgstr ""
+
+#: includes/Settings.class.php:446
+msgid ""
+"Should the product names be taken from the Ultimate Product Catalogue Plugin "
+"if the names are being restricted or the product name input type is set to "
+"\"Dropdown\"? (Ultimate Product Catalogue plugin needs to be installed to "
+"work correctly)"
+msgstr ""
+
+#: includes/Settings.class.php:456
+msgid "Product List"
+msgstr ""
+
+#: includes/Settings.class.php:457 includes/Settings.class.php:1030
+#: includes/Settings.class.php:1088 includes/Settings.class.php:1275
+msgid "&plus; ADD"
+msgstr ""
+
+#: includes/Settings.class.php:458 includes/Settings.class.php:1031
+#: includes/Settings.class.php:1089 includes/Settings.class.php:1276
+msgid "Delete"
+msgstr ""
+
+#: includes/Settings.class.php:459
+msgid ""
+"If UPCP integration is set to \"No\", and the product names are restricted "
+"or the input type is set to \"Dropdown\", the list of products above will be "
+"used to restrict the possible product names."
+msgstr ""
+
+#: includes/Settings.class.php:474
+msgid "Display and Layout"
+msgstr ""
+
+#: includes/Settings.class.php:485
+msgid "Display Author Name"
+msgstr ""
+
+#: includes/Settings.class.php:486
+msgid "Should the author's name be posted with the review?"
+msgstr ""
+
+#: includes/Settings.class.php:496
+msgid "Display Date Submitted"
+msgstr ""
+
+#: includes/Settings.class.php:497
+msgid "Should the date the review was submitted be posted with the review?"
+msgstr ""
+
+#: includes/Settings.class.php:507
+msgid "Display Time Submitted"
+msgstr ""
+
+#: includes/Settings.class.php:508
+msgid "Should the time the review was submitted be posted with the review?"
+msgstr ""
+
+#: includes/Settings.class.php:518
+msgid "Display Categories"
+msgstr ""
+
+#: includes/Settings.class.php:519
+msgid "Should the review's categories be posted with the review?"
+msgstr ""
+
+#: includes/Settings.class.php:529
+msgid "Reviews Per Page"
+msgstr ""
+
+#: includes/Settings.class.php:530
+msgid "Set the maximum number of reviews that should be displayed at one time."
+msgstr ""
+
+#: includes/Settings.class.php:542
+msgid "Pagination Location"
+msgstr ""
+
+#: includes/Settings.class.php:543
+msgid ""
+"Where should the pagination controls be located, if there are more reviews "
+"than the maximum per page?"
+msgstr ""
+
+#: includes/Settings.class.php:546
+msgid "Top"
+msgstr ""
+
+#: includes/Settings.class.php:547
+msgid "Bottom"
+msgstr ""
+
+#: includes/Settings.class.php:548
+msgid "Both"
+msgstr ""
+
+#: includes/Settings.class.php:566
+msgid "Premium"
+msgstr ""
+
+#: includes/Settings.class.php:589
+msgid "Review Format"
+msgstr ""
+
+#: includes/Settings.class.php:593
+msgid "Standard"
+msgstr ""
+
+#: includes/Settings.class.php:594
+msgid "Expandable"
+msgstr ""
+
+#: includes/Settings.class.php:595
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/Settings.class.php:596
+msgid "Thumbnail Masonry"
+msgstr ""
+
+#: includes/Settings.class.php:597
+msgid "Image"
+msgstr ""
+
+#: includes/Settings.class.php:598
+msgid "Image Masonry"
+msgstr ""
+
+#: includes/Settings.class.php:609
+msgid "Captcha"
+msgstr ""
+
+#: includes/Settings.class.php:610
+msgid ""
+"Should Captcha be added to the submit review form to prevent spamming? "
+"(requires image-creation support for your PHP installation)"
+msgstr ""
+
+#: includes/Settings.class.php:620
+msgid "Review Karma"
+msgstr ""
+
+#: includes/Settings.class.php:621
+msgid ""
+"Should visitors be allowed to vote up or down reviews that they find or "
+"don't find useful? (\"Did you find this review helpful?\") Uses cookies to "
+"make it more difficult to vote up or down multiple times."
+msgstr ""
+
+#: includes/Settings.class.php:631
+msgid "Infinite Scroll"
+msgstr ""
+
+#: includes/Settings.class.php:632
+msgid ""
+"If there are more than the maximum number of reviews per page displayed, "
+"should the next page of reviews be loaded automatically by AJAX so that the "
+"page doesn't need to be reloaded? This may not work if you also have a "
+"review widget displaying on the same page."
+msgstr ""
+
+#: includes/Settings.class.php:642
+msgid "Include Microdata"
+msgstr ""
+
+#: includes/Settings.class.php:643
+msgid ""
+"Should microdata be added to the reviews when they're displayed? Microdata "
+"helps search engine to display your reviews in a more helpful format <a href="
+"\"http://www.htmlgoodies.com/html5/Web-Developer-Tutorial-HTML5-"
+"Microdata-3920016.htm#fbid=UWk0EObAqCE\">Find out more</a>)."
+msgstr ""
+
+#: includes/Settings.class.php:673
+msgid "Items Reviewed"
+msgstr ""
+
+#: includes/Settings.class.php:674
+msgid ""
+"For microdata to work correctly, the type of items being reviewed needs to "
+"be specified."
+msgstr ""
+
+#: includes/Settings.class.php:687
+msgid "Admin Notification Email"
+msgstr ""
+
+#: includes/Settings.class.php:688
+msgid "Should an email be sent to the WordPress admin?"
+msgstr ""
+
+#: includes/Settings.class.php:698
+msgid "Admin Email Address"
+msgstr ""
+
+#: includes/Settings.class.php:699
+msgid ""
+"The email address admin notifications should be sent to, if \"Admin "
+"Notification Email\" is enabled. Leave blank to use the default WordPress "
+"admin email."
+msgstr ""
+
+#: includes/Settings.class.php:708
+msgid "Display Features"
+msgstr ""
+
+#: includes/Settings.class.php:721 includes/Settings.class.php:2194
+msgid "Summary Statistics"
+msgstr ""
+
+#: includes/Settings.class.php:722
+msgid ""
+"Should a summary of the reviews be displayed at the top (average score, "
+"etc.)? This feature may not work as expected with in-depth reviews and/or "
+"pagination."
+msgstr ""
+
+#: includes/Settings.class.php:725
+msgid "Full"
+msgstr ""
+
+#: includes/Settings.class.php:726
+msgid "Limited"
+msgstr ""
+
+#: includes/Settings.class.php:727 includes/Settings.class.php:1877
+msgid "None"
+msgstr ""
+
+#: includes/Settings.class.php:738
+msgid "Clickable Summary Stats"
+msgstr ""
+
+#: includes/Settings.class.php:739
+msgid ""
+"Should visitors be able to click on the summary statistic bars (\"Summary "
+"Statistics\" must be set to \"Full\") to view all reviews with that score?"
+msgstr ""
+
+#: includes/Settings.class.php:749
+msgid "Thumbnail Characters"
+msgstr ""
+
+#: includes/Settings.class.php:750
+msgid ""
+"What is the maximum number of characters that should be shown in the preview "
+"in thumbnail format?"
+msgstr ""
+
+#: includes/Settings.class.php:762
+msgid "Thumbnail 'Read More' AJAX"
+msgstr ""
+
+#: includes/Settings.class.php:763
+msgid ""
+"If you have selected the \"Thumbnail\" format, should the content be loaded "
+"on the same page when clicking \"Read More\"?"
+msgstr ""
+
+#: includes/Settings.class.php:772
+msgid "Restrictions"
+msgstr ""
+
+#: includes/Settings.class.php:785
+msgid "Require Admin Approval"
+msgstr ""
+
+#: includes/Settings.class.php:786
+msgid ""
+"Should new reviews have their status set to 'draft' until an admin decides "
+"to publish them?"
+msgstr ""
+
+#: includes/Settings.class.php:796
+msgid "Require Author Email"
+msgstr ""
+
+#: includes/Settings.class.php:797
+msgid ""
+"Do reviewers have to include their email address (not publicly displayed) "
+"when they post a review?"
+msgstr ""
+
+#: includes/Settings.class.php:807
+msgid "Require Email Confirmation"
+msgstr ""
+
+#: includes/Settings.class.php:808
+msgid ""
+"Do reviewers have to confirm their email address before their review is "
+"displayed?"
+msgstr ""
+
+#: includes/Settings.class.php:818
+msgid "Display Form on Confirmation"
+msgstr ""
+
+#: includes/Settings.class.php:819
+msgid ""
+"Should the submit review form be displayed when someone is confirming their "
+"email address?"
+msgstr ""
+
+#: includes/Settings.class.php:829
+msgid "One Review per Person/Product"
+msgstr ""
+
+#: includes/Settings.class.php:830
+msgid ""
+"Should users be restricted to leaving one review per product? Uses cookies "
+"to track which products a user has reviewed."
+msgstr ""
+
+#: includes/Settings.class.php:840
+msgid "Review Blacklist"
+msgstr ""
+
+#: includes/Settings.class.php:841
+msgid ""
+"Enter terms, one per line, that you should block reviews from being "
+"submitted. This can include IP addresses that you want to block, review "
+"titles, author names, email addresses, etc."
+msgstr ""
+
+#: includes/Settings.class.php:850
+msgid "Require Login"
+msgstr ""
+
+#: includes/Settings.class.php:851
+msgid "Do reviewers have to log in before they can post a review?"
+msgstr ""
+
+#: includes/Settings.class.php:861
+msgid "WordPress Login URL"
+msgstr ""
+
+#: includes/Settings.class.php:862
+msgid "The URL of your WordPress login page."
+msgstr ""
+
+#: includes/Settings.class.php:879
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/Settings.class.php:889 includes/Settings.class.php:1140
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: includes/Settings.class.php:902
+msgid "Replace WooCommerce Reviews"
+msgstr ""
+
+#: includes/Settings.class.php:903
+msgid ""
+"Should the \"Reviews\" tab on the WooCommerce product page use Ultimate "
+"Reviews instead of the default WooCommerce system?"
+msgstr ""
+
+#: includes/Settings.class.php:913
+msgid "Submit Review on Top"
+msgstr ""
+
+#: includes/Settings.class.php:914
+msgid ""
+"Should the \"Submit Review\" form be displayed above a product's reviews in "
+"WooCommerce?"
+msgstr ""
+
+#: includes/Settings.class.php:924
+msgid "Only Review WooCommerce Products"
+msgstr ""
+
+#: includes/Settings.class.php:925
+msgid ""
+"Should visitors only be able to leave reviews for WooCommerce products, and "
+"no other products? Set \"Product Name Input Type\" in the \"Basic\" tab to "
+"\"Dropdown\" for this to work correctly"
+msgstr ""
+
+#: includes/Settings.class.php:935
+msgid "WooCommerce Review Types"
+msgstr ""
+
+#: includes/Settings.class.php:936
+msgid "How should WooCommerce reviews be organized?"
+msgstr ""
+
+#: includes/Settings.class.php:939
+msgid "Default"
+msgstr ""
+
+#: includes/Settings.class.php:940
+msgid "Most recent reviews"
+msgstr ""
+
+#: includes/Settings.class.php:941
+msgid "Top reviews"
+msgstr ""
+
+#: includes/Settings.class.php:942
+msgid ""
+"Most voted reviews (\"Review Karma\" in \"Premium\" options must be set to "
+"\"Yes\")"
+msgstr ""
+
+#: includes/Settings.class.php:953
+msgid "Override Product Page Ratings"
+msgstr ""
+
+#: includes/Settings.class.php:954
+msgid ""
+"Should the ratings area under the product name on the WooCommerce product "
+"page use the ratings from our plugin, instead of those from the default "
+"WooCommerce reviews?"
+msgstr ""
+
+#: includes/Settings.class.php:975
+msgid "Match WooCommerce Categories"
+msgstr ""
+
+#: includes/Settings.class.php:976
+msgid ""
+"Should review categories match the product categories in WooCommerce, and "
+"automatically attach a product's categories to reviews of that product? This "
+"will override the category selected by the review author if enabled."
+msgstr ""
+
+#: includes/Settings.class.php:986
+msgid "Display Related Reviews"
+msgstr ""
+
+#: includes/Settings.class.php:987
+msgid ""
+"Display reviews for other products in the same category (or categories) if "
+"there are less than the number of reviews above. Use 0 to never display "
+"reviews for other products."
+msgstr ""
+
+#: includes/Settings.class.php:998
+msgid "Review Reminder Emails"
+msgstr ""
+
+#: includes/Settings.class.php:1006
+msgid "Create as many reminders as you'd like using the table above."
+msgstr ""
+
+#: includes/Settings.class.php:1008
+msgid ""
+"Reminder Interval and Unit combine to set the amount of time after an order "
+"has been set to the selected status before a reminder to review is sent out."
+msgstr ""
+
+#: includes/Settings.class.php:1010
+msgid ""
+"Reminders can be stopped for a specific order by going to the WooCommerce "
+"\"Orders\" tab and unselecting the \"Send Reminders\" checkbox."
+msgstr ""
+
+#: includes/Settings.class.php:1012
+msgid ""
+"Alternatively, reminders will automatically stop if \"Review Codes\" are "
+"required for your site, and the code for a specific order is used."
+msgstr ""
+
+#: includes/Settings.class.php:1029
+msgid "Review Reminders"
+msgstr ""
+
+#: includes/Settings.class.php:1056
+msgid "Hours"
+msgstr ""
+
+#: includes/Settings.class.php:1057
+msgid "Days"
+msgstr ""
+
+#: includes/Settings.class.php:1058
+msgid "Weeks"
+msgstr ""
+
+#: includes/Settings.class.php:1072
+msgid "What should be in the messages sent to users?"
+msgstr ""
+
+#: includes/Settings.class.php:1074
+msgid ""
+"You can use [section]...[/section] and [footer]...[/footer] to split up the "
+"content of your email. You can also include a link button, like so: [button "
+"link='LINK_URL_GOES_HERE']BUTTON_TEXT[/button], and a link to review each "
+"individual item in an order with:[review-items "
+"link='LINK_URL_TO_SUBMIT_REVIEW_PAGE']"
+msgstr ""
+
+#: includes/Settings.class.php:1076
+msgid ""
+"You can also put [purchase-date] or into the message body or subject, to put "
+"in the date of the purchase or the review code for the purchase, "
+"respectively."
+msgstr ""
+
+#: includes/Settings.class.php:1078
+msgid "Use the area below to send yourself a sample email."
+msgstr ""
+
+#: includes/Settings.class.php:1087
+msgid "Email Messages"
+msgstr ""
+
+#: includes/Settings.class.php:1099
+msgid "Message Subject"
+msgstr ""
+
+#: includes/Settings.class.php:1104
+msgid "Message"
+msgstr ""
+
+#: includes/Settings.class.php:1117
+msgid "Sample Email Message"
+msgstr ""
+
+#: includes/Settings.class.php:1118
+msgid "Choose an email message to send as a sample."
+msgstr ""
+
+#: includes/Settings.class.php:1130
+msgid "Sample Email Address"
+msgstr ""
+
+#: includes/Settings.class.php:1131
+msgid ""
+"Choose an email address to send the above sample email message to. Make sure "
+"that you click the \"Save Changes\" button below before sending the test "
+"message, to receive the most recent version of your email."
+msgstr ""
+
+#: includes/Settings.class.php:1153
+msgid "Email Background Color"
+msgstr ""
+
+#: includes/Settings.class.php:1163
+msgid "Email Inner Background Color"
+msgstr ""
+
+#: includes/Settings.class.php:1173
+msgid "Email Text Color"
+msgstr ""
+
+#: includes/Settings.class.php:1183
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/Settings.class.php:1193
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/Settings.class.php:1203
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: includes/Settings.class.php:1213
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: includes/Settings.class.php:1230
+msgid "Elements"
+msgstr ""
+
+#: includes/Settings.class.php:1240
+msgid "Review Element Options"
+msgstr ""
+
+#: includes/Settings.class.php:1253
+msgid "In-Depth Reviews"
+msgstr ""
+
+#: includes/Settings.class.php:1254
+msgid ""
+"Should the reviews have multiple parts (set in the table below) rather than "
+"just an overall score?"
+msgstr ""
+
+#: includes/Settings.class.php:1259
+msgid ""
+"Use the table above to add fields to your submit review form (requires that "
+"in-depth reviews be enabled)."
+msgstr ""
+
+#: includes/Settings.class.php:1261
+msgid ""
+"You can drag and drop the elements in the table to arrange the order in "
+"which they will appear."
+msgstr ""
+
+#: includes/Settings.class.php:1263
+msgid ""
+"The \"Review Line\" field type will add a new in-depth category that "
+"visitors can rate and that will count towards the overall score (ex: "
+"Appearance, Value, etc.)."
+msgstr ""
+
+#: includes/Settings.class.php:1265
+msgid ""
+"For the \"Radio\" and \"Checkbox\" field types, supply a comma-separated "
+"list of your desired input values in the \"Options\" column."
+msgstr ""
+
+#: includes/Settings.class.php:1274
+msgid "Review Elements"
+msgstr ""
+
+#: includes/Settings.class.php:1281
+msgid "Field Name"
+msgstr ""
+
+#: includes/Settings.class.php:1286
+msgid "Required"
+msgstr ""
+
+#: includes/Settings.class.php:1295
+msgid "Explanation Allowed"
+msgstr ""
+
+#: includes/Settings.class.php:1304
+msgid "Type"
+msgstr ""
+
+#: includes/Settings.class.php:1307
+msgid "Default Field"
+msgstr ""
+
+#: includes/Settings.class.php:1308
+msgid "Review Line"
+msgstr ""
+
+#: includes/Settings.class.php:1309
+msgid "Text Box"
+msgstr ""
+
+#: includes/Settings.class.php:1310
+msgid "Text Area"
+msgstr ""
+
+#: includes/Settings.class.php:1312
+msgid "Checkbox"
+msgstr ""
+
+#: includes/Settings.class.php:1313
+msgid "Radio"
+msgstr ""
+
+#: includes/Settings.class.php:1314
+msgid "Date"
+msgstr ""
+
+#: includes/Settings.class.php:1315
+msgid "Date/Time"
+msgstr ""
+
+#: includes/Settings.class.php:1320
+msgid "Options"
+msgstr ""
+
+#: includes/Settings.class.php:1340
+msgid "Ordering"
+msgstr ""
+
+#: includes/Settings.class.php:1350
+msgid "Order Options"
+msgstr ""
+
+#: includes/Settings.class.php:1363
+msgid "Group By Product"
+msgstr ""
+
+#: includes/Settings.class.php:1364
+msgid ""
+"If the product_name attribute is left blank, should the reviews be grouped "
+"by the product they review?"
+msgstr ""
+
+#: includes/Settings.class.php:1374
+msgid "Group By Product Direction"
+msgstr ""
+
+#: includes/Settings.class.php:1375
+msgid ""
+"If reviews are grouped by product name, should they be grouped in ascending "
+"or descending order?"
+msgstr ""
+
+#: includes/Settings.class.php:1378 includes/Settings.class.php:1412
+msgid "Ascending"
+msgstr ""
+
+#: includes/Settings.class.php:1379 includes/Settings.class.php:1413
+msgid "Descending"
+msgstr ""
+
+#: includes/Settings.class.php:1390
+msgid "Ordering Type"
+msgstr ""
+
+#: includes/Settings.class.php:1391
+msgid "What type of ordering should be used for the reviews?"
+msgstr ""
+
+#: includes/Settings.class.php:1394
+msgid "Submitted Date"
+msgstr ""
+
+#: includes/Settings.class.php:1395
+msgid "Review Karma (Not possible if grouping by product name)"
+msgstr ""
+
+#: includes/Settings.class.php:1396
+msgid "Rating (Not possible if grouping by product name)"
+msgstr ""
+
+#: includes/Settings.class.php:1397 includes/Settings.class.php:1654
+#: views/View.class.php:116
+msgid "Review Title"
+msgstr ""
+
+#: includes/Settings.class.php:1408
+msgid "Order Direction"
+msgstr ""
+
+#: includes/Settings.class.php:1409
+msgid "Should the ordering be ascending or descending?"
+msgstr ""
+
+#: includes/Settings.class.php:1431
+msgid "Labelling"
+msgstr ""
+
+#: includes/Settings.class.php:1441
+msgid "Review Content"
+msgstr ""
+
+#: includes/Settings.class.php:1454 views/View.class.php:108
+msgid "Posted"
+msgstr ""
+
+#: includes/Settings.class.php:1465
+msgid "By"
+msgstr ""
+
+#: includes/Settings.class.php:1476
+msgid "On"
+msgstr ""
+
+#: includes/Settings.class.php:1498 views/View.class.php:112
+#: views/View.class.php:121
+msgid "Explanation"
+msgstr ""
+
+#: includes/Settings.class.php:1509 views/View.class.php:125
+msgid "Review for"
+msgstr ""
+
+#: includes/Settings.class.php:1520 ultimate-reviews.php:341
+#: views/View.class.php:127
+msgid "Categories"
+msgstr ""
+
+#: includes/Settings.class.php:1531 views/View.class.php:128
+msgid "Verified Buyer"
+msgstr ""
+
+#: includes/Settings.class.php:1541
+msgid "Filtering Area"
+msgstr ""
+
+#: includes/Settings.class.php:1554
+msgid "Filter (button)"
+msgstr ""
+
+#: includes/Settings.class.php:1565 includes/Settings.class.php:1621
+#: views/View.class.php:113 views/View.class.php:130
+msgid "Product Name"
+msgstr ""
+
+#: includes/Settings.class.php:1576 includes/Widgets.class.php:98
+#: includes/Widgets.class.php:287 views/View.class.php:131
+msgid "All"
+msgstr ""
+
+#: includes/Settings.class.php:1587 views/View.class.php:132
+msgid "Review Score"
+msgstr ""
+
+#: includes/Settings.class.php:1598 includes/Settings.class.php:1632
+#: views/View.class.php:114 views/View.class.php:133
+msgid "Review Author"
+msgstr ""
+
+#: includes/Settings.class.php:1608
+msgid "Submit Reviews"
+msgstr ""
+
+#: includes/Settings.class.php:1643
+msgid "Author 'Comment'"
+msgstr ""
+
+#: includes/Settings.class.php:1665
+msgid "Title 'Comment'"
+msgstr ""
+
+#: includes/Settings.class.php:1676 views/View.class.php:118
+msgid "Overall Score"
+msgstr ""
+
+#: includes/Settings.class.php:1698
+msgid "Element 'Score'"
+msgstr ""
+
+#: includes/Settings.class.php:1709
+msgid "Category 'Explanation'"
+msgstr ""
+
+#: includes/Settings.class.php:1720
+msgid "'Send Review' Button"
+msgstr ""
+
+#: includes/Settings.class.php:1731 views/View.class.php:135
+msgid "Reviewer's Email Address"
+msgstr ""
+
+#: includes/Settings.class.php:1742
+msgid "Email Address Instructions"
+msgstr ""
+
+#: includes/Settings.class.php:1753 views/View.class.php:137
+msgid "Image Number"
+msgstr ""
+
+#: includes/Settings.class.php:1763
+msgid "Reviews Summary"
+msgstr ""
+
+#: includes/Settings.class.php:1776 views/View.class.php:138
+msgid "Average Score"
+msgstr ""
+
+#: includes/Settings.class.php:1787
+msgid "Ratings"
+msgstr ""
+
+#: includes/Settings.class.php:1797
+msgid "Messages"
+msgstr ""
+
+#: includes/Settings.class.php:1810
+msgid "Submit Success Message"
+msgstr ""
+
+#: includes/Settings.class.php:1821
+msgid "Submit Draft Add On Message"
+msgstr ""
+
+#: includes/Settings.class.php:1839
+msgid "Styling"
+msgstr ""
+
+#: includes/Settings.class.php:1862
+msgid "Disable Score Display"
+msgstr ""
+
+#: includes/Settings.class.php:1863
+msgid "Should the numerical review score be hidden?"
+msgstr ""
+
+#: includes/Settings.class.php:1873
+msgid "Review Skin Style"
+msgstr ""
+
+#: includes/Settings.class.php:1874
+msgid "What styling skin should the reviews use?"
+msgstr ""
+
+#: includes/Settings.class.php:1878
+msgid "Simple Stars"
+msgstr ""
+
+#: includes/Settings.class.php:1879
+msgid "Thumbs"
+msgstr ""
+
+#: includes/Settings.class.php:1880
+msgid "Hearts"
+msgstr ""
+
+#: includes/Settings.class.php:1881 includes/Settings.class.php:2204
+msgid "Simple Bar"
+msgstr ""
+
+#: includes/Settings.class.php:1882
+msgid "Color Bar"
+msgstr ""
+
+#: includes/Settings.class.php:1883
+msgid "Small Circle Graph"
+msgstr ""
+
+#: includes/Settings.class.php:1884
+msgid "Circle Graph with Score"
+msgstr ""
+
+#: includes/Settings.class.php:1895
+msgid "Review Group Separating Line"
+msgstr ""
+
+#: includes/Settings.class.php:1896
+msgid ""
+"Add a separating line between each group of reviews (must have \"Group By "
+"Product\" enabled)."
+msgstr ""
+
+#: includes/Settings.class.php:1906
+msgid "In-Depth Review Categories Layout"
+msgstr ""
+
+#: includes/Settings.class.php:1907
+msgid ""
+"Choose a layout for the display of the different categories when in-depth "
+"reviews are enabled."
+msgstr ""
+
+#: includes/Settings.class.php:1910
+msgid "Regular"
+msgstr ""
+
+#: includes/Settings.class.php:1911
+msgid "Alternating Background Color"
+msgstr ""
+
+#: includes/Settings.class.php:1922
+msgid "\"Read More\" Style"
+msgstr ""
+
+#: includes/Settings.class.php:1923
+msgid ""
+"In the thumbnail review format, should the \"read more\" text be a standard "
+"link or a button?"
+msgstr ""
+
+#: includes/Settings.class.php:1926
+msgid "Standard Link"
+msgstr ""
+
+#: includes/Settings.class.php:1927
+msgid "Button"
+msgstr ""
+
+#: includes/Settings.class.php:1937
+msgid "Premium Content Styling"
+msgstr ""
+
+#: includes/Settings.class.php:1950
+msgid "Review Title Text Color"
+msgstr ""
+
+#: includes/Settings.class.php:1960
+msgid "Review Title Font Family"
+msgstr ""
+
+#: includes/Settings.class.php:1972
+msgid "Review Title Font Size"
+msgstr ""
+
+#: includes/Settings.class.php:1984
+msgid "Review Title Margin"
+msgstr ""
+
+#: includes/Settings.class.php:1996
+msgid "Review Title Padding"
+msgstr ""
+
+#: includes/Settings.class.php:2008
+msgid "Review Content Text Color"
+msgstr ""
+
+#: includes/Settings.class.php:2018
+msgid "Review Content Font Family"
+msgstr ""
+
+#: includes/Settings.class.php:2030
+msgid "Review Content Font Size"
+msgstr ""
+
+#: includes/Settings.class.php:2042
+msgid "Review Content Margin"
+msgstr ""
+
+#: includes/Settings.class.php:2054
+msgid "Review Content Padding"
+msgstr ""
+
+#: includes/Settings.class.php:2066
+msgid "Review Meta Text Color"
+msgstr ""
+
+#: includes/Settings.class.php:2076
+msgid "Review Meta Font Family"
+msgstr ""
+
+#: includes/Settings.class.php:2088
+msgid "Review Meta Font Size"
+msgstr ""
+
+#: includes/Settings.class.php:2100
+msgid "Review Meta Margin"
+msgstr ""
+
+#: includes/Settings.class.php:2112
+msgid "Review Meta Padding"
+msgstr ""
+
+#: includes/Settings.class.php:2124
+msgid "Review Score Text Color"
+msgstr ""
+
+#: includes/Settings.class.php:2134
+msgid "Review Score Font Family"
+msgstr ""
+
+#: includes/Settings.class.php:2146
+msgid "Review Score Font Size"
+msgstr ""
+
+#: includes/Settings.class.php:2158
+msgid "Review Score Margin"
+msgstr ""
+
+#: includes/Settings.class.php:2170
+msgid "Review Score Padding"
+msgstr ""
+
+#: includes/Settings.class.php:2181
+msgid "Premium Color Selection"
+msgstr ""
+
+#: includes/Settings.class.php:2214
+msgid "Color Bar - High"
+msgstr ""
+
+#: includes/Settings.class.php:2224
+msgid "Color Bar - Medium"
+msgstr ""
+
+#: includes/Settings.class.php:2234
+msgid "Color Bar - Low"
+msgstr ""
+
+#: includes/Settings.class.php:2244
+msgid "Review Background"
+msgstr ""
+
+#: includes/Settings.class.php:2254
+msgid "Header Background"
+msgstr ""
+
+#: includes/Settings.class.php:2264
+msgid "Content Background"
+msgstr ""
+
+#: includes/Settings.class.php:2274
+msgid "Read More Button Background"
+msgstr ""
+
+#: includes/Settings.class.php:2284
+msgid "Read More Button Text"
+msgstr ""
+
+#: includes/Settings.class.php:2294
+msgid "Read More Button Hover Background"
+msgstr ""
+
+#: includes/Settings.class.php:2304
+msgid "Read More Button Hover Text"
+msgstr ""
+
+#: includes/Settings.class.php:2314
+msgid "Image Style Background"
+msgstr ""
+
+#: includes/Settings.class.php:2324
+msgid "Circle Graph Background"
+msgstr ""
+
+#: includes/Settings.class.php:2334
+msgid "Circle Graph Fill"
+msgstr ""
+
+#: includes/Settings.class.php:2344
+msgid "Rating Stars"
+msgstr ""
+
+#: includes/Settings.class.php:2354
+msgid "Verified Buyer Badge Background"
+msgstr ""
+
+#: includes/Settings.class.php:2364
+msgid "Verified Buyer Badge Checkmark"
+msgstr ""
+
+#: includes/Settings.class.php:2374
+msgid "Verified Buyer Badge Text"
+msgstr ""
+
+#: includes/Widgets.class.php:44
+msgid "Recent Reviews"
+msgstr ""
+
+#: includes/Widgets.class.php:45
+msgid "Insert a number of recent reviews."
+msgstr ""
+
+#: includes/Widgets.class.php:104 includes/Widgets.class.php:191
+#: includes/Widgets.class.php:293 includes/Widgets.class.php:380
+msgid "Text Before:"
+msgstr ""
+
+#: includes/Widgets.class.php:108 includes/Widgets.class.php:297
+msgid "Reviewed Product:"
+msgstr ""
+
+#: includes/Widgets.class.php:110 includes/Widgets.class.php:299
+msgid "All Products"
+msgstr ""
+
+#: includes/Widgets.class.php:117 includes/Widgets.class.php:306
+msgid "Number of Reviews:"
+msgstr ""
+
+#: includes/Widgets.class.php:121 includes/Widgets.class.php:199
+#: includes/Widgets.class.php:310 includes/Widgets.class.php:388
+msgid "Text After:"
+msgstr ""
+
+#: includes/Widgets.class.php:155
+msgid "Selected Reviews"
+msgstr ""
+
+#: includes/Widgets.class.php:156
+msgid "Insert a number of selected reviews."
+msgstr ""
+
+#: includes/Widgets.class.php:195 includes/Widgets.class.php:384
+msgid "IDs of Posts to Display"
+msgstr ""
+
+#: includes/Widgets.class.php:232
+msgid "Popular Reviews"
+msgstr ""
+
+#: includes/Widgets.class.php:233
+msgid "Insert a number of popular reviews."
+msgstr ""
+
+#: includes/Widgets.class.php:344
+msgid "Reviews Slider"
+msgstr ""
+
+#: includes/Widgets.class.php:345
+msgid ""
+"Insert a slider of reviews (requires 'Ultimate Slider' plugin installed)"
+msgstr ""
+
+#: includes/WooCommerce.class.php:618
+msgid "Reviews for Similar Products"
+msgstr ""
+
+#: includes/WooCommerce.class.php:625
+msgid "Leave a review"
+msgstr ""
+
+#: includes/template-functions.php:251 views/View.class.php:123
+msgid "Thank you for submitting a review."
+msgstr ""
+
+#: includes/template-functions.php:252 views/View.class.php:124
+msgid "Your review will be visible once it's approved by an administrator."
+msgstr ""
+
+#: includes/template-functions.php:253
+msgid "Submit a Review"
+msgstr ""
+
+#: includes/template-functions.php:254
+msgid "Please fill out the form below to submit a review."
+msgstr ""
+
+#: includes/template-functions.php:255 views/View.class.php:122
+msgid "Send Review"
+msgstr ""
+
+#: includes/template-functions.php:291
+msgid "Thank you for confirming your email address."
+msgstr ""
+
+#: includes/template-functions.php:295
+msgid ""
+"There was an error while confirming your email address, please contact the "
+"site administrator."
+msgstr ""
+
+#: lib/simple-admin-pages/classes/AdminPage.class.php:173
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ultimate-reviews.php:263
+msgid "Head to the settings page for Ultimate Reviews"
+msgstr ""
+
+#: ultimate-reviews.php:333
+msgid "MENU"
+msgstr ""
+
+#: ultimate-reviews.php:334
+msgid "Dashboard"
+msgstr ""
+
+#: ultimate-reviews.php:342
+msgid "Import"
+msgstr ""
+
+#: ultimate-reviews.php:343
+msgid "Export"
+msgstr ""
+
+#: views/View.class.php:107
+msgid "reviews"
+msgstr ""
+
+#: views/View.class.php:109
+msgid "by"
+msgstr ""
+
+#: views/View.class.php:110
+msgid "on"
+msgstr ""
+
+#: views/View.class.php:115
+msgid "What name should be displayed with your review?"
+msgstr ""
+
+#: views/View.class.php:117
+msgid "What title should be displayed with your review?"
+msgstr ""
+
+#: views/View.class.php:126
+msgid "Reviews for"
+msgstr ""
+
+#: views/View.class.php:129
+msgid "Filter"
+msgstr ""
+
+#: views/View.class.php:136
+msgid ""
+"Please confirm your email to verify your identity. It will not be displayed."
+msgstr ""
+
+#: views/View.class.php:139
+msgid "ratings"
+msgstr ""

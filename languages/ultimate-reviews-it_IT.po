@@ -1,0 +1,1275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Reviews\n"
+"POT-Creation-Date: 2020-01-24 18:05+0100\n"
+"PO-Revision-Date: 2020-01-24 18:07+0100\n"
+"Language-Team: Etoile Web Design\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Last-Translator: \n"
+"Language: it_IT\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Functions/EWD_URP_Add_Views_Column.php:6
+msgid "# of Views"
+msgstr "numero di visualizzazioni"
+
+#: Functions/EWD_URP_Add_Views_Column.php:7
+msgid "Product"
+msgstr "Prodotto"
+
+#: Functions/EWD_URP_Add_Views_Column.php:8
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:218
+#: Shortcodes/SelectReview.php:104 Shortcodes/SubmitReview.php:444
+#: html/OptionsPage.php:1752
+msgid "Score"
+msgstr "Punteggio"
+
+#: Functions/EWD_URP_Add_Views_Column.php:9
+msgid "Post ID"
+msgstr "Post ID"
+
+#: Functions/EWD_URP_Add_Views_Column.php:10
+msgid "Inappropriate Flag"
+msgstr "Contrassegno inappropriato"
+
+#: Functions/EWD_URP_Add_Views_Column.php:173
+msgid "Show All Products"
+msgstr "Mostra tutti i prodotti"
+
+#: Functions/EWD_URP_Captcha.php:8 html/OptionsPage.php:1878
+msgid "Image Number"
+msgstr "Numero nel riquadro"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:41
+msgid "Quick Feedback"
+msgstr "Feedback veloce"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:42
+msgid ""
+"If you have a moment, please share why you are deactivating Ultimate FAQs:"
+msgstr ""
+"Se hai un momento, condividi il motivo per cui stai disattivando le domande "
+"frequenti su Ultimate:"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:57
+msgid "Submit and Deactivate"
+msgstr "Invia e disattiva"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:58
+msgid "Skip and Deactivate"
+msgstr ""
+
+#: Functions/EWD_URP_Import.php:122
+msgid "Reviews added successfully."
+msgstr "Recensione aggiunta."
+
+#: Functions/EWD_URP_Import.php:134
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr "Il file caricato eccede la direttiva upload_max_filesize in php.ini"
+
+#: Functions/EWD_URP_Import.php:137
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+"Il file caricato eccede la direttiva MAX_FILE_SIZE specificata nel modulo "
+"HTML"
+
+#: Functions/EWD_URP_Import.php:140
+msgid "The uploaded file was only partially uploaded"
+msgstr "Il file è stato caricato solo in parte"
+
+#: Functions/EWD_URP_Import.php:143
+msgid "No file was uploaded."
+msgstr "Il file non è stato caricato."
+
+#: Functions/EWD_URP_Import.php:147
+msgid "Missing a temporary folder"
+msgstr "Manca una cartella temporanea"
+
+#: Functions/EWD_URP_Import.php:150
+msgid "Failed to write file to disk"
+msgstr "Il file non è stato scritto sul disco"
+
+#: Functions/EWD_URP_Import.php:153
+msgid "File upload stopped by extension"
+msgstr "Il caricamento è stato fermato dall'estensione"
+
+#: Functions/EWD_URP_Import.php:157
+msgid "No error code avaiable"
+msgstr "Non è disponibile un codice errore"
+
+#: Functions/EWD_URP_Import.php:162
+msgid "No file was uploaded here.."
+msgstr "Non è stato caricato alcun file..."
+
+#: Functions/EWD_URP_Import.php:168
+msgid "File must be .csv, .xls or .xlsx"
+msgstr "Il file deve essere .csv, .xls o .xlsx"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:37
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:104
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:5
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:7 Main.php:98
+msgid "Reviews"
+msgstr "Recensioni"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:61
+msgid "Reviews for Similar Products"
+msgstr "Recensioni per prodotti simili"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:73
+msgid "Most recent reviews"
+msgstr "Recensioni più recenti"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:74
+msgid "Top reviews"
+msgstr "Recensioni migliori"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:75
+msgid "Most useful reviews"
+msgstr "Recensioni più utili"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:90
+msgid "Leave a review"
+msgstr "Lascia una recensione"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:125 html/WC_Rating.php:35
+#, php-format
+msgid "Rated %s out of %s"
+msgstr "Valutazione %s di  %s"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:126 html/WC_Rating.php:37
+#, php-format
+msgid "out of %s"
+msgstr "di %s"
+
+#: Functions/EWD_URP_Submit_Review.php:64
+msgid "The number entered in the captcha field was not correct."
+msgstr "Il numero inserito nel campo captcha non è corretto."
+
+#: Functions/EWD_URP_Submit_Review.php:79
+msgid ""
+"Your IP address has been blocked from submitting reviews by the site "
+"administrator."
+msgstr ""
+"E' stato impedito l'inserimento di recensioni dal tuo indirizzo IP "
+"dall'amministratore del sito."
+
+#: Functions/EWD_URP_Submit_Review.php:81
+msgid "You have an invalid submission in one or more of your fields:"
+msgstr "C'è un dato non valido in uno o più campi:"
+
+#: Functions/EWD_URP_Submit_Review.php:94
+msgid ""
+"You have already submitted a review for a product with that product name. "
+"Please select a different product to review."
+msgstr ""
+"Hai già lasciato una recensione per un prodotto con quel nome. Seleziona un "
+"altro prodotto da recensire."
+
+#: Functions/EWD_URP_Submit_Review.php:111
+msgid "Review was not created succesfully."
+msgstr "La recensione non è stata creata."
+
+#: Functions/EWD_URP_Submit_Review.php:226
+msgid "Email Confirmation for Product Review"
+msgstr "Conferma Email per Recensione Prodotto"
+
+#: Functions/EWD_URP_Submit_Review.php:228
+msgid "Hello,"
+msgstr "Buongiorno,"
+
+#: Functions/EWD_URP_Submit_Review.php:229
+msgid ""
+"Please confirm your email address for the product review you submitted "
+"titled "
+msgstr ""
+"Conferma l'indirizzo email per la recensione che hai inserito intitolata "
+
+#: Functions/EWD_URP_Submit_Review.php:230
+msgid "by going to the following link:"
+msgstr "andando al seguente link:"
+
+#: Functions/EWD_URP_Submit_Review.php:231
+msgid "Confirm your email address"
+msgstr "Conferma il tuo indirizzo email"
+
+#: Functions/EWD_URP_Submit_Review.php:232
+msgid "Thank you for the review, and have a great day,"
+msgstr "Grazie per la recensione, buona giornata,"
+
+#: Functions/EWD_URP_Submit_Review.php:249
+msgid "Thank you for confirming your email address!"
+msgstr "Grazie per aver confermato il tuo indirizzo email!"
+
+#: Functions/EWD_URP_Submit_Review.php:270
+msgid "New Review Received"
+msgstr "Nuova Recensione Ricevuta"
+
+#: Functions/EWD_URP_Submit_Review.php:272
+msgid "Hello Admin,"
+msgstr "Ciao Amministratore,"
+
+#: Functions/EWD_URP_Submit_Review.php:273
+msgid "You've received a new review for the product"
+msgstr "Hai ricevuto una nuova recensione per il prodotto"
+
+#: Functions/EWD_URP_Submit_Review.php:274
+msgid "The review reads:<br>"
+msgstr "Testo della recensione:<br>"
+
+#: Functions/EWD_URP_Submit_Review.php:276
+msgid "You can view the entire review by going to the following link:<br>"
+msgstr "Puoi leggere l'intera recensione al seguente link:<br>"
+
+#: Functions/EWD_URP_Submit_Review.php:277
+msgid "See the review"
+msgstr "Vedi la recensione"
+
+#: Functions/EWD_URP_Submit_Review.php:278
+msgid "Have a great day,"
+msgstr "Buona giornata,"
+
+#: Functions/EWD_URP_Submit_Review.php:279
+msgid "Ultimate Reviews Team"
+msgstr "Ultimate Reviews Team"
+
+#: Functions/EWD_URP_Submit_Review.php:304
+msgid "File must be .jpg or .png"
+msgstr "Il file deve essere .jpg o .png"
+
+#: Functions/EWD_URP_Submit_Review.php:391
+msgid "Post Title"
+msgstr "Titolo del Post"
+
+#: Functions/EWD_URP_Submit_Review.php:394 Shortcodes/DisplayReviews.php:393
+#: Shortcodes/SubmitReview.php:211 html/OptionsPage.php:1793
+#: html/OptionsPage.php:1830
+msgid "Product Name"
+msgstr "Nome Prodotto"
+
+#: Functions/EWD_URP_Submit_Review.php:397
+msgid "Author"
+msgstr "Autore"
+
+#: Functions/EWD_URP_Submit_Review.php:400
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:6
+#: Shortcodes/SubmitReview.php:483 html/OptionsPage.php:1854
+msgid "Review"
+msgstr "Recensione"
+
+#: Functions/EWD_URP_Submit_Review.php:403
+msgid "Review Author Email"
+msgstr "Email dell'Autore della Recensione"
+
+#: Functions/EWD_URP_Submit_Review.php:406
+msgid "Review Video URL"
+msgstr "URL del Video della recensione"
+
+#: Functions/EWD_URP_Submit_Review.php:409
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:48
+#: Shortcodes/SubmitReview.php:419
+msgid "Review Category"
+msgstr "Categoria Recensione"
+
+#: Functions/EWD_URP_Upgrade_Box.php:7 html/Dashboard.php:19
+msgid "Full Version"
+msgstr "Versione integrale"
+
+#: Functions/EWD_URP_Upgrade_Box.php:9 html/Dashboard.php:21
+msgid "Upgrade to the full version "
+msgstr "Passa alla versione integrale "
+
+#: Functions/EWD_URP_Upgrade_Box.php:9 html/Dashboard.php:21
+msgid ""
+"to take advantage of all the available features of Ultimate Reviews for "
+"Wordpress!"
+msgstr ""
+"per avvalerti di tutte le funzionalità disponibili di Ultimate Reviews per "
+"Wordpress!"
+
+#: Functions/EWD_URP_Upgrade_Box.php:10 html/Dashboard.php:22
+msgid "What you get by upgrading:"
+msgstr "Cosa otterrai facendo l'aggiornamento:"
+
+#: Functions/EWD_URP_Upgrade_Box.php:20 html/Dashboard.php:32
+msgid "Product Key"
+msgstr "Chiave Prodotto"
+
+#: Functions/EWD_URP_Upgrade_Box.php:23 html/Dashboard.php:35
+msgid "Upgrade"
+msgstr "Aggiornamento"
+
+#: Functions/EWD_URP_Widgets.php:10
+msgid "Recent Reviews"
+msgstr "Recensioni recenti"
+
+#: Functions/EWD_URP_Widgets.php:11
+msgid "Insert a number of recent reviews"
+msgstr "Inserisci un numero di recensioni recenti"
+
+#: Functions/EWD_URP_Widgets.php:55 Functions/EWD_URP_Widgets.php:224
+#: Shortcodes/DisplayReviews.php:395 html/OptionsPage.php:1797
+msgid "All"
+msgstr "Tutti"
+
+#: Functions/EWD_URP_Widgets.php:56 Functions/EWD_URP_Widgets.php:225
+msgid "3"
+msgstr "3"
+
+#: Functions/EWD_URP_Widgets.php:61 Functions/EWD_URP_Widgets.php:140
+#: Functions/EWD_URP_Widgets.php:230 Functions/EWD_URP_Widgets.php:309
+msgid "Text Before:"
+msgstr "Testo Precedente:"
+
+#: Functions/EWD_URP_Widgets.php:65 Functions/EWD_URP_Widgets.php:234
+msgid "Reviewed Product:"
+msgstr "Prodotto recensito:"
+
+#: Functions/EWD_URP_Widgets.php:67 Functions/EWD_URP_Widgets.php:236
+msgid "All Products"
+msgstr "Tutti i Prodotti"
+
+#: Functions/EWD_URP_Widgets.php:74 Functions/EWD_URP_Widgets.php:243
+msgid "Number of Reviews:"
+msgstr "Numero di Recensioni:"
+
+#: Functions/EWD_URP_Widgets.php:78 Functions/EWD_URP_Widgets.php:148
+#: Functions/EWD_URP_Widgets.php:247 Functions/EWD_URP_Widgets.php:317
+msgid "Text After:"
+msgstr "Testo Successivo:"
+
+#: Functions/EWD_URP_Widgets.php:109
+msgid "Selected Reviews"
+msgstr "Recensioni selezionate"
+
+#: Functions/EWD_URP_Widgets.php:110
+msgid "Insert a number of selected reviews"
+msgstr "Inserisci un numero di recensioni selezionate"
+
+#: Functions/EWD_URP_Widgets.php:144 Functions/EWD_URP_Widgets.php:313
+msgid "IDs of Posts to Display"
+msgstr "ID dei Post da mostrare"
+
+#: Functions/EWD_URP_Widgets.php:178
+msgid "Popular Reviews"
+msgstr "Recensioni popolari"
+
+#: Functions/EWD_URP_Widgets.php:179
+msgid "Insert a number of popular reviews"
+msgstr "Inserisci un numero di recensioni popolari"
+
+#: Functions/EWD_URP_Widgets.php:278
+msgid "Reviews Slider"
+msgstr "Slider Recensioni"
+
+#: Functions/EWD_URP_Widgets.php:279
+msgid ""
+"Insert a slider of reviews (requires \"Ultimate Slider\" plugin installed)"
+msgstr ""
+
+#: Functions/EWD_URP_WooCommerce_Review_Import.php:79
+msgid "WooCommerce reviews have been succesfully imported."
+msgstr ""
+
+#: Functions/Full_Upgrade.php:8
+msgid "Trial successfully started!"
+msgstr "Tentativo iniziato!"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:8 Main.php:100
+msgid "Add New"
+msgstr "Aggiungi Nuova"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:9
+msgid "Add New Review"
+msgstr "Aggiungi Nuova Recensione"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:10
+msgid "Edit Review"
+msgstr "Modifica Recensione"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:11
+msgid "New Review"
+msgstr "Nuova Recensione"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:12
+msgid "View Review"
+msgstr "Vedi Recensione"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:13
+#: Shortcodes/Display_URP_Search.php:18
+msgid "Search Reviews"
+msgstr "Cerca Recensioni"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:14
+msgid "Nothing found"
+msgstr "La ricerca non ha prodotto risultati"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:15
+msgid "Nothing found in Trash"
+msgstr "La ricerca nel Cestino non ha prodotto risultati"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:47
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:57
+msgid "Review Categories"
+msgstr "Categorie Recensioni"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:49
+msgid "Search Review Categories"
+msgstr "Cerca Categorie Recensioni"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:50
+msgid "All Review Categories"
+msgstr "Tutte le Categorie Recensioni"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:51
+msgid "Parent Review Category"
+msgstr "Categoria Recensioni Genitore"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:52
+msgid "Parent Review Category:"
+msgstr "Categoria Recensioni Genitore:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:53
+msgid "Edit Review Category"
+msgstr "Modifica Categoria Recensioni"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:54
+msgid "Update Review Category"
+msgstr "Aggiorna Categoria Recensioni"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:55
+msgid "Add New Review Category"
+msgstr "Aggiungi Nuova Categoria Recensioni"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:56
+msgid "New Review Category Name"
+msgstr "Denominazione Nuova Categoria Recensioni"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:68
+msgid "Use the following shortcode to add this review to a page:"
+msgstr ""
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:78
+msgid "Review Details"
+msgstr "Dettagli Recensione"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:79
+msgid "Need Help?"
+msgstr "Hai bisogno d'aiuto?"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:117
+msgid "Review Weight:"
+msgstr "Peso Recensione:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:127
+msgid "WooCommerce Order ID:"
+msgstr "ID Ordine WooCommerce:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:138
+msgid "Review Karma:"
+msgstr "Karma Recensione:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:149
+msgid "Reviewer's Email:"
+msgstr "Email Recensore:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:160
+msgid "Email Confirmed:"
+msgstr "Email Confermato:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:172
+msgid "Review Video:"
+msgstr "Video Recensione:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:184
+msgid "Product Name:"
+msgstr "Nome Prodotto:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:193
+msgid "Post Author:"
+msgstr "Autore del Post:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:203
+#: Shortcodes/SubmitReview.php:442 html/OptionsPage.php:1850
+msgid "Overall Score"
+msgstr "Valutazione complessiva"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:270
+#: Shortcodes/SelectReview.php:106 Shortcodes/SubmitReview.php:561
+#: html/OptionsPage.php:1756
+msgid "Explanation"
+msgstr "Spiegazione"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:392
+#: Shortcodes/SelectReview.php:98
+msgid "Posted "
+msgstr "Pubblicato "
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:394
+#: Shortcodes/SelectReview.php:100
+msgid "by "
+msgstr "da "
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:396
+#: Shortcodes/SelectReview.php:102
+msgid "on "
+msgstr "il "
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:398
+msgid "Score "
+msgstr "Valutazione "
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:400
+msgid "Explanation "
+msgstr "Spiegazione "
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:418
+msgid "Review for "
+msgstr "Recensione per "
+
+#: Functions/Update_EWD_URP_Admin_Databases.php:279
+msgid "Options have been successfully updated."
+msgstr "Le opzioni sono state correttamente aggiornate."
+
+#: Functions/Update_EWD_URP_Content.php:23
+msgid "The form has not worked correctly. Please contact the plugin developer."
+msgstr ""
+"Il modulo non ha funzionato correttamente. Contatta lo sviluppatore del "
+"plugin."
+
+#: Main.php:92
+msgid "MENU"
+msgstr "MENU"
+
+#: Main.php:93 html/MainScreen.php:3
+msgid "Dashboard"
+msgstr "Bacheca"
+
+#: Main.php:95
+msgid "Approved Reviews"
+msgstr "Recensioni Approvate"
+
+#: Main.php:96
+msgid "Awaiting Approval"
+msgstr "In attesa di Approvazione"
+
+#: Main.php:101 Shortcodes/SelectReview.php:225
+msgid "Categories"
+msgstr "Categorie"
+
+#: Main.php:102
+msgid "Import"
+msgstr "Importa"
+
+#: Main.php:103
+msgid "Export"
+msgstr "Esporta"
+
+#: Main.php:104 html/MainScreen.php:7 html/OptionsPage.php:1584
+msgid "Options"
+msgstr "Opzioni"
+
+#: Main.php:311
+msgid "Next"
+msgstr "Successivo"
+
+#: Main.php:312
+msgid "Close"
+msgstr "Chiudi"
+
+#: Shortcodes/DisplayReviews.php:59
+msgid " reviews "
+msgstr " recensioni "
+
+#: Shortcodes/DisplayReviews.php:312 Shortcodes/DisplayReviews.php:336
+msgid "Reviews for"
+msgstr "Recensioni per"
+
+#: Shortcodes/DisplayReviews.php:374
+msgid " of "
+msgstr " di "
+
+#: Shortcodes/DisplayReviews.php:391
+msgid "Filter"
+msgstr "Filtro"
+
+#: Shortcodes/DisplayReviews.php:397 html/OptionsPage.php:1801
+#: html/OptionsPage.php:2165
+msgid "Review Score"
+msgstr "Valutazione Recensione"
+
+#: Shortcodes/DisplayReviews.php:399 Shortcodes/SubmitReview.php:295
+#: html/OptionsPage.php:1805 html/OptionsPage.php:1834
+msgid "Review Author"
+msgstr "Autore Recensione"
+
+#: Shortcodes/DisplayReviews.php:482
+msgid "No matching reviews found."
+msgstr "Non sono state trovate recensioni."
+
+#: Shortcodes/DisplayReviews.php:525
+msgid "Summary for"
+msgstr "Riepilogo per"
+
+#: Shortcodes/DisplayReviews.php:564 html/OptionsPage.php:1903
+msgid "Average Score"
+msgstr "Valutazione media"
+
+#: Shortcodes/DisplayReviews.php:567
+msgid "rating"
+msgstr "rating"
+
+#: Shortcodes/DisplayReviews.php:568
+msgid "ratings"
+msgstr "rating"
+
+#: Shortcodes/Display_Summary_Statistics.php:33
+msgid "Back to Summary"
+msgstr "Torna al riepilogo"
+
+#: Shortcodes/SelectReview.php:161 html/OptionsPage.php:1760
+msgid "Review for"
+msgstr "Recensione per"
+
+#: Shortcodes/SelectReview.php:269
+msgid "Read More"
+msgstr "Continua a leggere"
+
+#: Shortcodes/SubmitReview.php:58 Shortcodes/SubmitReview.php:72
+msgid "Send Review"
+msgstr "Invia Recensione"
+
+#: Shortcodes/SubmitReview.php:68
+msgid "Thank you for submitting a review."
+msgstr "Grazie per aver lasciato una recensione."
+
+#: Shortcodes/SubmitReview.php:69
+msgid "Your review will be visible once it's approved by an administrator."
+msgstr ""
+"La tua recensione sarà visibile dopo essere stata approvata da un "
+"amministratore."
+
+#: Shortcodes/SubmitReview.php:70
+msgid "Submit a Review"
+msgstr "Invia una Recensione"
+
+#: Shortcodes/SubmitReview.php:71
+msgid "Please fill out the form below to submit a review."
+msgstr "Compila il modulo sottostante per inviare una recensione."
+
+#: Shortcodes/SubmitReview.php:109
+msgid "Please log in to leave a review"
+msgstr "Effettua l'accesso per lasciare una recensione"
+
+#: Shortcodes/SubmitReview.php:111
+msgid "Login Options:"
+msgstr "Opzioni di accesso:"
+
+#: Shortcodes/SubmitReview.php:171
+msgid "Click to add your own review!"
+msgstr "Clicca per aggiungere la tua recensione!"
+
+#: Shortcodes/SubmitReview.php:228
+msgid "Review of "
+msgstr "Recensione di "
+
+#: Shortcodes/SubmitReview.php:297
+msgid "What name should be displayed with your review?"
+msgstr "Che nome deve essere pubblicato con la recensione?"
+
+#: Shortcodes/SubmitReview.php:331 html/OptionsPage.php:1870
+msgid "Reviewer's Email Address"
+msgstr "Indirizzo Email del recensore"
+
+#: Shortcodes/SubmitReview.php:333
+msgid ""
+"Please confirm your email to verify your identity. It will not be displayed."
+msgstr ""
+"Conferma il tuo indirizzo email per verificare la tua identità. Non sarà "
+"pubblicato."
+
+#: Shortcodes/SubmitReview.php:354 html/OptionsPage.php:1842
+#: html/OptionsPage.php:2051
+msgid "Review Title"
+msgstr "Titolo della Recensione"
+
+#: Shortcodes/SubmitReview.php:356
+msgid "What title should be displayed with your review?"
+msgstr "Che titolo deve essere pubblicato per la recensione?"
+
+#: Shortcodes/SubmitReview.php:380
+msgid "Review Image"
+msgstr "Immagine Recensione"
+
+#: Shortcodes/SubmitReview.php:383
+msgid "The image that should be associated with your review"
+msgstr "L'immagine da associare alla tua recensione"
+
+#: Shortcodes/SubmitReview.php:399
+msgid "Review Video"
+msgstr "Video Recensione"
+
+#: Shortcodes/SubmitReview.php:402
+msgid ""
+"A link to a video for this review from an external site (YouTube, Vimeo, "
+"etc.)."
+msgstr ""
+"Un link a un video per questa recensione da un sito esterno (YouTube, Vimeo, "
+"ecc.)."
+
+#: Shortcodes/SubmitReview.php:427
+msgid "The category that the review will be listed under."
+msgstr "Categoria sotto cui verrà elencata la recensione."
+
+#: Shortcodes/SubmitReview.php:471
+msgid "out of"
+msgstr "di"
+
+#: Shortcodes/SubmitReview.php:492 Shortcodes/SubmitReview.php:573
+msgid "Characters remaining:"
+msgstr "Caratteri restanti:"
+
+#: Shortcodes/SubmitReview.php:596 Shortcodes/SubmitReview.php:777
+msgid "WordPress Login"
+msgstr "Accedi a WordPress"
+
+#: Shortcodes/SubmitReview.php:702 Shortcodes/SubmitReview.php:712
+msgid "Logout"
+msgstr "Esci"
+
+#: Shortcodes/SubmitReview.php:718
+msgid "You have been successfully logged out via Facebook. "
+msgstr "Sei stato disconnesso via Facebook. "
+
+#: Shortcodes/SubmitReview.php:720 Shortcodes/SubmitReview.php:728
+msgid "Please reload the page"
+msgstr "Si prega di ricaricare la pagina"
+
+#: Shortcodes/SubmitReview.php:722 Shortcodes/SubmitReview.php:730
+msgid "if you'd like to log in again"
+msgstr "se vuoi accedere nuovamente"
+
+#: Shortcodes/SubmitReview.php:726
+msgid "You have been successfully logged out via Twitter. "
+msgstr "Sei stato disconnesso via Twitter. "
+
+#: Shortcodes/SubmitReview.php:782
+msgid "Login"
+msgstr "Accedi"
+
+#: html/AdminHeader.php:2
+msgid "Ultimate Reviews"
+msgstr "Ultimate Reviews"
+
+#: html/Dashboard.php:47 html/Dashboard.php:297
+msgid "Thank You!"
+msgstr "Grazie!"
+
+#: html/Dashboard.php:49
+msgid "Thanks for installing the Ultimate Reviews plugin."
+msgstr "Grazie per aver installato il plugin Ultimate Reviews."
+
+#: html/Dashboard.php:49
+msgid "Subscribe to our YouTube channel "
+msgstr "Iscriviti al nostro canale YouTube "
+
+#: html/Dashboard.php:49
+msgid "for tutorial videos on this and our other plugins!"
+msgstr "per video tutorial su questo e altri plugin!"
+
+#: html/Dashboard.php:50
+msgid "Thanks for upgrading to version 1.2.7!"
+msgstr ""
+
+#: html/Dashboard.php:50
+msgid "Please rate our plugin"
+msgstr ""
+
+#: html/Dashboard.php:50
+msgid "if you find Ultimate Reviews useful!"
+msgstr ""
+
+#: html/Dashboard.php:184
+msgid "Order Number"
+msgstr "Numero Ordine"
+
+#: html/Dashboard.php:193
+msgid "Name"
+msgstr "Nome"
+
+#: html/Dashboard.php:202 html/OptionsPage.php:1260
+msgid "Status"
+msgstr "Status"
+
+#: html/Dashboard.php:212
+msgid "Customer Notes"
+msgstr "Note Cliente"
+
+#: html/Dashboard.php:222
+msgid "Updated"
+msgstr "Aggiornato"
+
+#: html/Dashboard.php:244
+msgid "Hide"
+msgstr "Nascondi"
+
+#: html/Dashboard.php:266
+msgid "Bulk Actions"
+msgstr "Azioni di gruppo"
+
+#: html/Dashboard.php:271
+msgid "Hide Order"
+msgstr "Nascondi Ordine"
+
+#: html/Dashboard.php:272
+msgid "Delete"
+msgstr "Cancella"
+
+#: html/Dashboard.php:274
+msgid "Apply"
+msgstr "Applica"
+
+#: html/Dashboard.php:277
+msgid "items"
+msgstr "elementi"
+
+#: html/Dashboard.php:281
+msgid "of"
+msgstr "di"
+
+#: html/Dashboard.php:299
+msgid ""
+"We wanted to thank the users of our plugins for all of their great reviews "
+"recently."
+msgstr ""
+
+#: html/Dashboard.php:300
+msgid ""
+"Your positive feedback and constructive suggestions on how to improve our "
+"plugins make coming in to work every day worth it for us."
+msgstr ""
+
+#: html/Dashboard.php:301
+msgid "Haven't had a chance to leave a review yet? You can do so at:"
+msgstr "Non hai ancora lasciato una recensione? Puoi farlo qui:"
+
+#: html/Dashboard.php:305
+msgid "Ask me in a week"
+msgstr "Chiedimelo tra una settimana"
+
+#: html/Dashboard.php:306
+msgid "Never ask me again"
+msgstr "Non chiedermelo più"
+
+#: html/Dashboard.php:316
+msgid "Recent Changes"
+msgstr "Modifiche recenti"
+
+#: html/Dashboard.php:326
+msgid "Goes great with:"
+msgstr "Va molto bene con:"
+
+#: html/DashboardPage.php:31
+msgid "Enter Product Key Here"
+msgstr "Inserisci qui la chiave prodotto"
+
+#: html/DashboardPage.php:32
+msgid "UNLOCK PREMIUM"
+msgstr "SBLOCCA PREMIUM"
+
+#: html/DashboardPage.php:77
+msgid "Title"
+msgstr "Titolo"
+
+#: html/DashboardPage.php:78
+msgid "Views"
+msgstr "Numero di visualizzazioni"
+
+#: html/DashboardPage.php:79
+msgid "Review Rating"
+msgstr "Valutazione Recensione"
+
+#: html/DashboardPage.php:84
+msgid ""
+"No reviews to display yet. Create a review and then view it for it to be "
+"displayed here."
+msgstr ""
+"Non ci sono recensioni ancora. Crea una recensione e visualizzala affinché "
+"sia pubblicata qui."
+
+#: html/ExportPage.php:5
+msgid "To CSV"
+msgstr "A CSV"
+
+#: html/ExportPage.php:18
+msgid "To Spreadsheet"
+msgstr "A Foglio di Calcolo"
+
+#: html/ImportPage.php:10
+msgid "From WooCommerce"
+msgstr "Da WooCommerce"
+
+#: html/ImportPage.php:21
+msgid "From Spreadsheet"
+msgstr "Da Foglio di Calcolo"
+
+#: html/ImportPage.php:27
+msgid "Spreadsheet Containing Reviews"
+msgstr "Foglio di Calcolo contenente Recensioni"
+
+#: html/MainScreen.php:4
+msgid "Orders"
+msgstr "Ordini"
+
+#: html/MainScreen.php:5
+msgid "Statuses"
+msgstr "Status"
+
+#: html/MainScreen.php:6
+msgid "Emails"
+msgstr "Email"
+
+#: html/OptionsPage.php:197
+msgid ""
+"To display reviews, place the <strong>[ultimate-reviews]</strong> shortcode "
+"on a page"
+msgstr ""
+
+#: html/OptionsPage.php:198
+msgid ""
+"To allow visitors to submit a review, place the <strong>[submit-review]</"
+"strong> shortcode on a page"
+msgstr ""
+
+#: html/OptionsPage.php:203 html/OptionsPage.php:647 html/OptionsPage.php:1960
+msgid "General"
+msgstr "General"
+
+#: html/OptionsPage.php:327
+msgid "Functionality"
+msgstr "Funzionalità"
+
+#: html/OptionsPage.php:473
+msgid "Products Available for Review"
+msgstr "Prodotti Disponibili per la Recensione"
+
+#: html/OptionsPage.php:540 html/OptionsPage.php:1334 html/OptionsPage.php:1403
+#: html/OptionsPage.php:1635
+msgid "ADD"
+msgstr "AGGIUNGI"
+
+#: html/OptionsPage.php:552
+msgid "Display and Layout"
+msgstr ""
+
+#: html/OptionsPage.php:800
+msgid "Display Features"
+msgstr ""
+
+#: html/OptionsPage.php:870
+msgid "Restrictions"
+msgstr ""
+
+#: html/OptionsPage.php:1065
+msgid "Settings"
+msgstr ""
+
+#: html/OptionsPage.php:1247
+msgid "Review Reminder Emails"
+msgstr ""
+
+#: html/OptionsPage.php:1251
+msgid "Review Reminders"
+msgstr ""
+
+#: html/OptionsPage.php:1257
+msgid "Email to Send"
+msgstr ""
+
+#: html/OptionsPage.php:1258
+msgid "Reminder Interval"
+msgstr ""
+
+#: html/OptionsPage.php:1259
+msgid "Reminder Unit"
+msgstr ""
+
+#: html/OptionsPage.php:1355
+msgid "Customize Your Emails With"
+msgstr ""
+
+#: html/OptionsPage.php:1370
+msgid "Download Now"
+msgstr "Scarica ora"
+
+#: html/OptionsPage.php:1372
+msgid "Remind Me Later"
+msgstr "Ricordamelo più tardi"
+
+#: html/OptionsPage.php:1379
+msgid "Email Messages"
+msgstr "Messaggi Email"
+
+#: html/OptionsPage.php:1384
+msgid "Message Subject"
+msgstr "Oggetto del Messaggio"
+
+#: html/OptionsPage.php:1385
+msgid "Message"
+msgstr "Messaggio"
+
+#: html/OptionsPage.php:1448
+msgid "Reminder Email Styling"
+msgstr ""
+
+#: html/OptionsPage.php:1452
+msgid "Email"
+msgstr ""
+
+#: html/OptionsPage.php:1455 html/OptionsPage.php:1477
+#: html/OptionsPage.php:2215 html/OptionsPage.php:2279
+#: html/OptionsPage.php:2324
+msgid "Colors"
+msgstr ""
+
+#: html/OptionsPage.php:1458 html/OptionsPage.php:1480
+#: html/OptionsPage.php:1493 html/OptionsPage.php:2282
+#: html/OptionsPage.php:2295 html/OptionsPage.php:2327
+msgid "Background"
+msgstr ""
+
+#: html/OptionsPage.php:1462
+msgid "Inner Background"
+msgstr ""
+
+#: html/OptionsPage.php:1466 html/OptionsPage.php:1484
+#: html/OptionsPage.php:1497 html/OptionsPage.php:2286
+#: html/OptionsPage.php:2299
+msgid "Text"
+msgstr "Testo"
+
+#: html/OptionsPage.php:1474
+msgid "Button"
+msgstr "Pulsante"
+
+#: html/OptionsPage.php:1490 html/OptionsPage.php:2292
+msgid "Hover Colors"
+msgstr ""
+
+#: html/OptionsPage.php:1522
+msgid "Review Field Options"
+msgstr "Opzioni campo recensione"
+
+#: html/OptionsPage.php:1570
+msgid "In-Depth Review Fields"
+msgstr ""
+
+#: html/OptionsPage.php:1579
+msgid "Field Name"
+msgstr ""
+
+#: html/OptionsPage.php:1580
+msgid "Required?"
+msgstr "Obbligatorio?"
+
+#: html/OptionsPage.php:1581
+msgid "Allow Explanation"
+msgstr "Consenti Spiegazione"
+
+#: html/OptionsPage.php:1582
+msgid "Type"
+msgstr "Tipo"
+
+#: html/OptionsPage.php:1583
+msgid "Filterable"
+msgstr "Filtrabile"
+
+#: html/OptionsPage.php:1606
+msgid "No"
+msgstr ""
+
+#: html/OptionsPage.php:1607
+msgid "Yes"
+msgstr "Sì"
+
+#: html/OptionsPage.php:1663
+msgid "Order Options"
+msgstr "Opzioni Ordine"
+
+#: html/OptionsPage.php:1733 html/OptionsPage.php:2089
+#: html/OptionsPage.php:2268
+msgid "Review Content"
+msgstr "Contenuto Recensione"
+
+#: html/OptionsPage.php:1740
+msgid "Posted"
+msgstr "Pubblicato"
+
+#: html/OptionsPage.php:1744
+msgid "By"
+msgstr "Da"
+
+#: html/OptionsPage.php:1748
+msgid "On"
+msgstr "Il"
+
+#: html/OptionsPage.php:1764
+msgid "'Categories' Label"
+msgstr "Etichetta 'Categorie'"
+
+#: html/OptionsPage.php:1782
+msgid "Filtering Area"
+msgstr "Area Filtraggio"
+
+#: html/OptionsPage.php:1789
+msgid "Filter (button)"
+msgstr "Filtro (pulsante)"
+
+#: html/OptionsPage.php:1823
+msgid "Submit Reviews"
+msgstr "Invia Recensioni"
+
+#: html/OptionsPage.php:1838
+msgid "Author 'Comment'"
+msgstr "Autore 'Commento'"
+
+#: html/OptionsPage.php:1846
+msgid "Title 'Comment'"
+msgstr "Titolo 'Commento'"
+
+#: html/OptionsPage.php:1858
+msgid "Category 'Score'"
+msgstr "Categoria 'Valutazione'"
+
+#: html/OptionsPage.php:1862
+msgid "Category 'Explanation'"
+msgstr "Categoria 'Spiegazione'"
+
+#: html/OptionsPage.php:1866
+msgid "'Send Review' Button"
+msgstr "Pulsante 'Invia Recensione'"
+
+#: html/OptionsPage.php:1874
+msgid "Email Address Instructions"
+msgstr "Istruzioni Indirizzo Email"
+
+#: html/OptionsPage.php:1896
+msgid "Reviews Summary"
+msgstr "Riepilogo Recensioni"
+
+#: html/OptionsPage.php:1907
+msgid "Ratings"
+msgstr "Valutazioni"
+
+#: html/OptionsPage.php:1925
+msgid "Messages"
+msgstr "Messaggi"
+
+#: html/OptionsPage.php:1932
+msgid "Submit Success Message"
+msgstr ""
+
+#: html/OptionsPage.php:1936
+msgid "Submit Draft Add On Message"
+msgstr ""
+
+#: html/OptionsPage.php:2047
+msgid "Premium Styling Options"
+msgstr ""
+
+#: html/OptionsPage.php:2054 html/OptionsPage.php:2092
+#: html/OptionsPage.php:2130 html/OptionsPage.php:2168
+msgid "Font Color"
+msgstr ""
+
+#: html/OptionsPage.php:2063 html/OptionsPage.php:2101
+#: html/OptionsPage.php:2139 html/OptionsPage.php:2177
+msgid "Font Family"
+msgstr ""
+
+#: html/OptionsPage.php:2069 html/OptionsPage.php:2107
+#: html/OptionsPage.php:2145 html/OptionsPage.php:2183
+msgid "Font Size"
+msgstr ""
+
+#: html/OptionsPage.php:2075 html/OptionsPage.php:2113
+#: html/OptionsPage.php:2151 html/OptionsPage.php:2189
+msgid "Margin"
+msgstr ""
+
+#: html/OptionsPage.php:2081 html/OptionsPage.php:2119
+#: html/OptionsPage.php:2157 html/OptionsPage.php:2195
+msgid "Padding"
+msgstr ""
+
+#: html/OptionsPage.php:2127
+msgid "Review Post Date"
+msgstr "Data Recensione"
+
+#: html/OptionsPage.php:2219
+msgid "Review Colors"
+msgstr "Colori Recensione"
+
+#: html/OptionsPage.php:2222
+msgid "Summary Statistics"
+msgstr "Statistiche Riepilogo"
+
+#: html/OptionsPage.php:2231
+msgid "Simple Bar"
+msgstr ""
+
+#: html/OptionsPage.php:2240
+msgid "Color Bar"
+msgstr ""
+
+#: html/OptionsPage.php:2243
+msgid "High"
+msgstr "Alto"
+
+#: html/OptionsPage.php:2247
+msgid "Medium"
+msgstr "Medio"
+
+#: html/OptionsPage.php:2251
+msgid "Low"
+msgstr "Basso"
+
+#: html/OptionsPage.php:2257
+msgid "Backgrounds"
+msgstr "Sfondi"
+
+#: html/OptionsPage.php:2260
+msgid "Review Container"
+msgstr "Contenitore Recensioni"
+
+#: html/OptionsPage.php:2264
+msgid "Review Header"
+msgstr "Header Recensioni"
+
+#: html/OptionsPage.php:2276
+msgid "Read More Button"
+msgstr "Pulsante Continua a Leggere"
+
+#: html/OptionsPage.php:2307
+msgid "Image Review Style"
+msgstr "Stile Immagine Recensione"
+
+#: html/OptionsPage.php:2310
+msgid "Background Color"
+msgstr "Colore Sfondo"
+
+#: html/OptionsPage.php:2321
+msgid "Circle Graph"
+msgstr "Grafico Circolare"
+
+#: html/OptionsPage.php:2331
+msgid "Fill"
+msgstr "Riempi"

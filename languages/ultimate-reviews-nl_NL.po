@@ -1,0 +1,1289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Reviews\n"
+"POT-Creation-Date: 2018-10-30 11:48-0400\n"
+"PO-Revision-Date: 2019-10-09 13:30+0200\n"
+"Language-Team: Etoile Web Design\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Last-Translator: \n"
+"Language: nl_NL\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Functions/EWD_URP_Add_Views_Column.php:6
+msgid "# of Views"
+msgstr "# aantal weergaven"
+
+#: Functions/EWD_URP_Add_Views_Column.php:7
+msgid "Product"
+msgstr "Dienst"
+
+#: Functions/EWD_URP_Add_Views_Column.php:8
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:218
+#: Shortcodes/SelectReview.php:104 Shortcodes/SubmitReview.php:444
+#: html/OptionsPage.php:1752
+msgid "Score"
+msgstr "Score"
+
+#: Functions/EWD_URP_Add_Views_Column.php:9
+msgid "Post ID"
+msgstr "Post ID"
+
+#: Functions/EWD_URP_Add_Views_Column.php:10
+msgid "Inappropriate Flag"
+msgstr "Ongepaste vlag"
+
+#: Functions/EWD_URP_Add_Views_Column.php:173
+msgid "Show All Products"
+msgstr "Toon alle producten"
+
+#: Functions/EWD_URP_Captcha.php:8 html/OptionsPage.php:1878
+msgid "Image Number"
+msgstr "Afbeeldingsnummer"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:41
+msgid "Quick Feedback"
+msgstr "Snelle feedback"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:42
+msgid ""
+"If you have a moment, please share why you are deactivating Ultimate FAQs:"
+msgstr ""
+"Als je een momentje hebt, deel dan waarom je Ultimate FAQs deactiveert:"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:57
+msgid "Submit and Deactivate"
+msgstr "Verzenden en deactiveren"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:58
+msgid "Skip and Deactivate"
+msgstr "Overslaan en deactiveren"
+
+#: Functions/EWD_URP_Import.php:122
+msgid "Reviews added successfully."
+msgstr "Beoordelingen succesvol toegevoegd."
+
+#: Functions/EWD_URP_Import.php:134
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+"Het geüploade bestand overschrijdt de upload_max_filesize-richtlijn in php."
+"ini"
+
+#: Functions/EWD_URP_Import.php:137
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+"Het geüploade bestand overschrijdt de MAX_FILE_SIZE-richtlijn die is "
+"opgegeven in het HTML-formulier"
+
+#: Functions/EWD_URP_Import.php:140
+msgid "The uploaded file was only partially uploaded"
+msgstr "Het geüploade bestand is slechts gedeeltelijk geüpload"
+
+#: Functions/EWD_URP_Import.php:143
+msgid "No file was uploaded."
+msgstr "Er is geen bestand geüpload."
+
+#: Functions/EWD_URP_Import.php:147
+msgid "Missing a temporary folder"
+msgstr "Er ontbreekt een tijdelijke map"
+
+#: Functions/EWD_URP_Import.php:150
+msgid "Failed to write file to disk"
+msgstr "Kan bestand niet naar schijf schrijven"
+
+#: Functions/EWD_URP_Import.php:153
+msgid "File upload stopped by extension"
+msgstr "Bestandsupload gestopt door extensie"
+
+#: Functions/EWD_URP_Import.php:157
+msgid "No error code avaiable"
+msgstr "Geen foutcode beschikbaar"
+
+#: Functions/EWD_URP_Import.php:162
+msgid "No file was uploaded here.."
+msgstr "Hier is geen bestand geüpload .."
+
+#: Functions/EWD_URP_Import.php:168
+msgid "File must be .csv, .xls or .xlsx"
+msgstr "Bestand moet .csv, .xls of .xlsx zijn"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:37
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:104
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:5
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:7 Main.php:98
+msgid "Reviews"
+msgstr "Reviews"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:61
+msgid "Reviews for Similar Products"
+msgstr "Beoordelingen voor vergelijkbare producten"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:73
+msgid "Most recent reviews"
+msgstr "Meest recente beoordelingen"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:74
+msgid "Top reviews"
+msgstr "Top reviews"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:75
+msgid "Most useful reviews"
+msgstr "Meest nuttige beoordelingen"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:90
+msgid "Leave a review"
+msgstr "Laat een recentie achter"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:125 html/WC_Rating.php:35
+#, php-format
+msgid "Rated %s out of %s"
+msgstr "Nominale % s uit % s"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:126 html/WC_Rating.php:37
+#, php-format
+msgid "out of %s"
+msgstr "van % s"
+
+#: Functions/EWD_URP_Submit_Review.php:64
+msgid "The number entered in the captcha field was not correct."
+msgstr "Het nummer dat is ingevoerd in het captcha-veld was niet correct."
+
+#: Functions/EWD_URP_Submit_Review.php:79
+msgid ""
+"Your IP address has been blocked from submitting reviews by the site "
+"administrator."
+msgstr ""
+"Uw IP-adres is geblokkeerd voor het indienen van beoordelingen door de "
+"sitebeheerder."
+
+#: Functions/EWD_URP_Submit_Review.php:81
+msgid "You have an invalid submission in one or more of your fields:"
+msgstr "U heeft een ongeldige inzending in een of meer van uw velden:"
+
+#: Functions/EWD_URP_Submit_Review.php:94
+msgid ""
+"You have already submitted a review for a product with that product name. "
+"Please select a different product to review."
+msgstr ""
+"U hebt al een beoordeling ingediend voor een product met die productnaam. "
+"Selecteer een ander product om te beoordelen."
+
+#: Functions/EWD_URP_Submit_Review.php:111
+msgid "Review was not created succesfully."
+msgstr "Beoordeling is niet succesvol gemaakt."
+
+#: Functions/EWD_URP_Submit_Review.php:226
+msgid "Email Confirmation for Product Review"
+msgstr "E-mailbevestiging voor productbeoordeling"
+
+#: Functions/EWD_URP_Submit_Review.php:228
+msgid "Hello,"
+msgstr "Hallo, "
+
+#: Functions/EWD_URP_Submit_Review.php:229
+msgid ""
+"Please confirm your email address for the product review you submitted "
+"titled "
+msgstr ""
+"Bevestig je e-mailadres voor de productrecensie die je hebt ingediend met de "
+"titel"
+
+#: Functions/EWD_URP_Submit_Review.php:230
+msgid "by going to the following link:"
+msgstr "door naar de volgende link te gaan:"
+
+#: Functions/EWD_URP_Submit_Review.php:231
+msgid "Confirm your email address"
+msgstr "Bevestig je e-mailadres"
+
+#: Functions/EWD_URP_Submit_Review.php:232
+msgid "Thank you for the review, and have a great day,"
+msgstr "Bedankt voor je review en een fijne dag toegewenst,"
+
+#: Functions/EWD_URP_Submit_Review.php:249
+msgid "Thank you for confirming your email address!"
+msgstr "Bedankt voor het bevestigen van uw e-mailadres!"
+
+#: Functions/EWD_URP_Submit_Review.php:270
+msgid "New Review Received"
+msgstr "Nieuwe beoordeling ontvangen"
+
+#: Functions/EWD_URP_Submit_Review.php:272
+msgid "Hello Admin,"
+msgstr "Hallo Admin, "
+
+#: Functions/EWD_URP_Submit_Review.php:273
+msgid "You've received a new review for the product"
+msgstr "U heeft een nieuwe recensie voor het product ontvangen"
+
+#: Functions/EWD_URP_Submit_Review.php:274
+msgid "The review reads:<br>"
+msgstr "De recensie luidt: <br>"
+
+#: Functions/EWD_URP_Submit_Review.php:276
+msgid "You can view the entire review by going to the following link:<br>"
+msgstr ""
+"Je kunt de hele review bekijken door naar de volgende link te gaan:  <br>"
+
+#: Functions/EWD_URP_Submit_Review.php:277
+msgid "See the review"
+msgstr "Zie de review"
+
+#: Functions/EWD_URP_Submit_Review.php:278
+msgid "Have a great day,"
+msgstr "Een fijne dag verder,"
+
+#: Functions/EWD_URP_Submit_Review.php:279
+msgid "Ultimate Reviews Team"
+msgstr "Ultimate Reviews Team"
+
+#: Functions/EWD_URP_Submit_Review.php:304
+msgid "File must be .jpg or .png"
+msgstr "Bestand moet .jpg of .png zijn"
+
+#: Functions/EWD_URP_Submit_Review.php:391
+msgid "Post Title"
+msgstr "Titel van bericht"
+
+#: Functions/EWD_URP_Submit_Review.php:394 Shortcodes/DisplayReviews.php:393
+#: Shortcodes/SubmitReview.php:211 html/OptionsPage.php:1793
+#: html/OptionsPage.php:1830
+msgid "Product Name"
+msgstr "productnaam"
+
+#: Functions/EWD_URP_Submit_Review.php:397
+msgid "Author"
+msgstr "Auteur"
+
+#: Functions/EWD_URP_Submit_Review.php:400
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:6
+#: Shortcodes/SubmitReview.php:483 html/OptionsPage.php:1854
+msgid "Review"
+msgstr "Review"
+
+#: Functions/EWD_URP_Submit_Review.php:403
+msgid "Review Author Email"
+msgstr "Controleer auteurse-mail"
+
+#: Functions/EWD_URP_Submit_Review.php:406
+msgid "Review Video URL"
+msgstr "Bekijk de video-URL"
+
+#: Functions/EWD_URP_Submit_Review.php:409
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:48
+#: Shortcodes/SubmitReview.php:419
+msgid "Review Category"
+msgstr "Categorie beoordelen"
+
+#: Functions/EWD_URP_Upgrade_Box.php:7 html/Dashboard.php:19
+msgid "Full Version"
+msgstr "Volledige versie"
+
+#: Functions/EWD_URP_Upgrade_Box.php:9 html/Dashboard.php:21
+msgid "Upgrade to the full version "
+msgstr "Upgrade naar de volledige versie"
+
+#: Functions/EWD_URP_Upgrade_Box.php:9 html/Dashboard.php:21
+msgid ""
+"to take advantage of all the available features of Ultimate Reviews for "
+"Wordpress!"
+msgstr ""
+"om te profiteren van alle beschikbare functies van Ultimate Reviews voor "
+"Wordpress!"
+
+#: Functions/EWD_URP_Upgrade_Box.php:10 html/Dashboard.php:22
+msgid "What you get by upgrading:"
+msgstr "Wat u krijgt door te upgraden:"
+
+#: Functions/EWD_URP_Upgrade_Box.php:20 html/Dashboard.php:32
+msgid "Product Key"
+msgstr "Product sleutel"
+
+#: Functions/EWD_URP_Upgrade_Box.php:23 html/Dashboard.php:35
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: Functions/EWD_URP_Widgets.php:10
+msgid "Recent Reviews"
+msgstr "Recente beoordelingen"
+
+#: Functions/EWD_URP_Widgets.php:11
+msgid "Insert a number of recent reviews"
+msgstr "Voeg een aantal recente beoordelingen in"
+
+#: Functions/EWD_URP_Widgets.php:55 Functions/EWD_URP_Widgets.php:224
+#: Shortcodes/DisplayReviews.php:395 html/OptionsPage.php:1797
+msgid "All"
+msgstr "Alles"
+
+#: Functions/EWD_URP_Widgets.php:56 Functions/EWD_URP_Widgets.php:225
+msgid "3"
+msgstr "3"
+
+#: Functions/EWD_URP_Widgets.php:61 Functions/EWD_URP_Widgets.php:140
+#: Functions/EWD_URP_Widgets.php:230 Functions/EWD_URP_Widgets.php:309
+msgid "Text Before:"
+msgstr "Tekst hiervoor:"
+
+#: Functions/EWD_URP_Widgets.php:65 Functions/EWD_URP_Widgets.php:234
+msgid "Reviewed Product:"
+msgstr "Beoordeeld product:"
+
+#: Functions/EWD_URP_Widgets.php:67 Functions/EWD_URP_Widgets.php:236
+msgid "All Products"
+msgstr "Alle producten"
+
+#: Functions/EWD_URP_Widgets.php:74 Functions/EWD_URP_Widgets.php:243
+msgid "Number of Reviews:"
+msgstr "Aantal beoordelingen:"
+
+#: Functions/EWD_URP_Widgets.php:78 Functions/EWD_URP_Widgets.php:148
+#: Functions/EWD_URP_Widgets.php:247 Functions/EWD_URP_Widgets.php:317
+msgid "Text After:"
+msgstr "Tekst erna:"
+
+#: Functions/EWD_URP_Widgets.php:109
+msgid "Selected Reviews"
+msgstr "Geselecteerde beoordelingen"
+
+#: Functions/EWD_URP_Widgets.php:110
+msgid "Insert a number of selected reviews"
+msgstr "Voeg een aantal geselecteerde beoordelingen in"
+
+#: Functions/EWD_URP_Widgets.php:144 Functions/EWD_URP_Widgets.php:313
+msgid "IDs of Posts to Display"
+msgstr "ID's van berichten om weer te geven"
+
+#: Functions/EWD_URP_Widgets.php:178
+msgid "Popular Reviews"
+msgstr "Populaire beoordelingen"
+
+#: Functions/EWD_URP_Widgets.php:179
+msgid "Insert a number of popular reviews"
+msgstr "Voeg een aantal populaire beoordelingen in"
+
+#: Functions/EWD_URP_Widgets.php:278
+msgid "Reviews Slider"
+msgstr "Beoordelingen Slider"
+
+#: Functions/EWD_URP_Widgets.php:279
+msgid ""
+"Insert a slider of reviews (requires \"Ultimate Slider\" plugin installed)"
+msgstr ""
+"Een schuifregelaar met beoordelingen invoegen (vereist de plug-in \"Ultimate "
+"Slider\" geïnstalleerd)"
+
+#: Functions/EWD_URP_WooCommerce_Review_Import.php:79
+msgid "WooCommerce reviews have been succesfully imported."
+msgstr "WooCommerce-beoordelingen zijn met succes geïmporteerd."
+
+#: Functions/Full_Upgrade.php:8
+msgid "Trial successfully started!"
+msgstr "Proef succesvol gestart!"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:8 Main.php:100
+msgid "Add New"
+msgstr "Nieuw toevoegen"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:9
+msgid "Add New Review"
+msgstr "Voeg een nieuwe review toe"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:10
+msgid "Edit Review"
+msgstr "Beoordeling bewerken"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:11
+msgid "New Review"
+msgstr "Nieuwe beoordeling"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:12
+msgid "View Review"
+msgstr "Bekijk review"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:13
+#: Shortcodes/Display_URP_Search.php:18
+msgid "Search Reviews"
+msgstr "Zoek beoordelingen"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:14
+msgid "Nothing found"
+msgstr "Niets gevonden"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:15
+msgid "Nothing found in Trash"
+msgstr "Niets gevonden in Prullenbak"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:47
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:57
+msgid "Review Categories"
+msgstr "Categorieën bekijken"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:49
+msgid "Search Review Categories"
+msgstr "Zoeken in beoordelingscategorieën"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:50
+msgid "All Review Categories"
+msgstr "Alle beoordelingscategorieën"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:51
+msgid "Parent Review Category"
+msgstr "Categorie ouderbeoordeling"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:52
+msgid "Parent Review Category:"
+msgstr "Categorie ouderbeoordeling:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:53
+msgid "Edit Review Category"
+msgstr "Bewerk beoordelingscategorie"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:54
+msgid "Update Review Category"
+msgstr "Update Review Category"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:55
+msgid "Add New Review Category"
+msgstr "Voeg een nieuwe beoordelingscategorie toe"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:56
+msgid "New Review Category Name"
+msgstr "Naam van nieuwe beoordelingscategorie"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:68
+msgid "Use the following shortcode to add this review to a page:"
+msgstr ""
+"Gebruik de volgende shortcode om deze recensie aan een pagina toe te voegen:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:78
+msgid "Review Details"
+msgstr "Beoordelingdetails"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:79
+msgid "Need Help?"
+msgstr "Hulp nodig?"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:117
+msgid "Review Weight:"
+msgstr "Beoordeling gewicht:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:127
+msgid "WooCommerce Order ID:"
+msgstr "WooCommerce Bestel-ID:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:138
+msgid "Review Karma:"
+msgstr "Recensie Karma:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:149
+msgid "Reviewer's Email:"
+msgstr "E-mailadres reviewer:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:160
+msgid "Email Confirmed:"
+msgstr "E-mail bevestigd:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:172
+msgid "Review Video:"
+msgstr "Bekijk video:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:184
+msgid "Product Name:"
+msgstr "Productnaam:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:193
+msgid "Post Author:"
+msgstr "Auteur plaatsen:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:203
+#: Shortcodes/SubmitReview.php:442 html/OptionsPage.php:1850
+msgid "Overall Score"
+msgstr "Totale score"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:270
+#: Shortcodes/SelectReview.php:106 Shortcodes/SubmitReview.php:561
+#: html/OptionsPage.php:1756
+msgid "Explanation"
+msgstr "Uitleg"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:392
+#: Shortcodes/SelectReview.php:98
+msgid "Posted "
+msgstr "Geplaatst"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:394
+#: Shortcodes/SelectReview.php:100
+msgid "by "
+msgstr "door"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:396
+#: Shortcodes/SelectReview.php:102
+msgid "on "
+msgstr "op"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:398
+msgid "Score "
+msgstr "Score "
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:400
+msgid "Explanation "
+msgstr "Uitleg"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:418
+msgid "Review for "
+msgstr "Beoordeling voor"
+
+#: Functions/Update_EWD_URP_Admin_Databases.php:279
+msgid "Options have been successfully updated."
+msgstr "Opties zijn succesvol bijgewerkt."
+
+#: Functions/Update_EWD_URP_Content.php:23
+msgid "The form has not worked correctly. Please contact the plugin developer."
+msgstr ""
+"Het formulier heeft niet correct gewerkt. Neem contact op met de "
+"ontwikkelaar van de plug-in."
+
+#: Main.php:92
+msgid "MENU"
+msgstr "MENU"
+
+#: Main.php:93 html/MainScreen.php:3
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: Main.php:95
+msgid "Approved Reviews"
+msgstr "Goedgekeurde beoordelingen"
+
+#: Main.php:96
+msgid "Awaiting Approval"
+msgstr "In afwachting van goedkeuring"
+
+#: Main.php:101 Shortcodes/SelectReview.php:225
+msgid "Categories"
+msgstr "Categorieën"
+
+#: Main.php:102
+msgid "Import"
+msgstr "Import"
+
+#: Main.php:103
+msgid "Export"
+msgstr "Export"
+
+#: Main.php:104 html/MainScreen.php:7 html/OptionsPage.php:1584
+msgid "Options"
+msgstr "Opties"
+
+#: Main.php:311
+msgid "Next"
+msgstr "Volgende"
+
+#: Main.php:312
+msgid "Close"
+msgstr "Gesloten"
+
+#: Shortcodes/DisplayReviews.php:59
+msgid " reviews "
+msgstr "Beoordelingen"
+
+#: Shortcodes/DisplayReviews.php:312 Shortcodes/DisplayReviews.php:336
+msgid "Reviews for"
+msgstr "Beoordelingen voor"
+
+#: Shortcodes/DisplayReviews.php:374
+msgid " of "
+msgstr "of"
+
+#: Shortcodes/DisplayReviews.php:391
+msgid "Filter"
+msgstr "Filter"
+
+#: Shortcodes/DisplayReviews.php:397 html/OptionsPage.php:1801
+#: html/OptionsPage.php:2165
+msgid "Review Score"
+msgstr "Review Score"
+
+#: Shortcodes/DisplayReviews.php:399 Shortcodes/SubmitReview.php:295
+#: html/OptionsPage.php:1805 html/OptionsPage.php:1834
+msgid "Review Author"
+msgstr "Review Auteur"
+
+#: Shortcodes/DisplayReviews.php:482
+msgid "No matching reviews found."
+msgstr "Geen overeenkomende beoordelingen gevonden."
+
+#: Shortcodes/DisplayReviews.php:525
+msgid "Summary for"
+msgstr "Samenvatting voor"
+
+#: Shortcodes/DisplayReviews.php:564 html/OptionsPage.php:1903
+msgid "Average Score"
+msgstr "Gemiddelde score"
+
+#: Shortcodes/DisplayReviews.php:567
+msgid "rating"
+msgstr "beoordeling"
+
+#: Shortcodes/DisplayReviews.php:568
+msgid "ratings"
+msgstr "beoordelingen"
+
+#: Shortcodes/Display_Summary_Statistics.php:33
+msgid "Back to Summary"
+msgstr "Terug naar overzicht"
+
+#: Shortcodes/SelectReview.php:161 html/OptionsPage.php:1760
+msgid "Review for"
+msgstr "Beoordeling voor"
+
+#: Shortcodes/SelectReview.php:269
+msgid "Read More"
+msgstr "Lees verder"
+
+#: Shortcodes/SubmitReview.php:58 Shortcodes/SubmitReview.php:72
+msgid "Send Review"
+msgstr "Stuur beoordeling"
+
+#: Shortcodes/SubmitReview.php:68
+msgid "Thank you for submitting a review."
+msgstr "Bedankt voor het indienen van een review."
+
+#: Shortcodes/SubmitReview.php:69
+msgid "Your review will be visible once it's approved by an administrator."
+msgstr ""
+"Uw beoordeling is zichtbaar zodra deze is goedgekeurd door een beheerder."
+
+#: Shortcodes/SubmitReview.php:70
+msgid "Submit a Review"
+msgstr "Dien een beoordeling in"
+
+#: Shortcodes/SubmitReview.php:71
+msgid "Please fill out the form below to submit a review."
+msgstr "Vul het onderstaande formulier in om een ​​beoordeling in te dienen."
+
+#: Shortcodes/SubmitReview.php:109
+msgid "Please log in to leave a review"
+msgstr "Log in om een ​​beoordeling achter te laten"
+
+#: Shortcodes/SubmitReview.php:111
+msgid "Login Options:"
+msgstr "Aanmeldingsopties:"
+
+#: Shortcodes/SubmitReview.php:171
+msgid "Click to add your own review!"
+msgstr "Klik om je eigen review toe te voegen!"
+
+#: Shortcodes/SubmitReview.php:228
+msgid "Review of "
+msgstr "Recensie van"
+
+#: Shortcodes/SubmitReview.php:297
+msgid "What name should be displayed with your review?"
+msgstr "Welke naam moet bij uw beoordeling worden weergegeven?"
+
+#: Shortcodes/SubmitReview.php:331 html/OptionsPage.php:1870
+msgid "Reviewer's Email Address"
+msgstr "E-mailadres beoordelaar"
+
+#: Shortcodes/SubmitReview.php:333
+msgid ""
+"Please confirm your email to verify your identity. It will not be displayed."
+msgstr ""
+"Bevestig uw e-mailadres om uw identiteit te verifiëren. Het wordt niet "
+"weergegeven."
+
+#: Shortcodes/SubmitReview.php:354 html/OptionsPage.php:1842
+#: html/OptionsPage.php:2051
+msgid "Review Title"
+msgstr "Titel bekijken"
+
+#: Shortcodes/SubmitReview.php:356
+msgid "What title should be displayed with your review?"
+msgstr "Welke titel moet bij uw beoordeling worden weergegeven?"
+
+#: Shortcodes/SubmitReview.php:380
+msgid "Review Image"
+msgstr "Bekijk afbeelding"
+
+#: Shortcodes/SubmitReview.php:383
+msgid "The image that should be associated with your review"
+msgstr "De afbeelding die bij uw beoordeling hoort"
+
+#: Shortcodes/SubmitReview.php:399
+msgid "Review Video"
+msgstr "Bekijk video"
+
+#: Shortcodes/SubmitReview.php:402
+msgid ""
+"A link to a video for this review from an external site (YouTube, Vimeo, "
+"etc.)."
+msgstr ""
+"Een link naar een video voor deze review van een externe site (YouTube, "
+"Vimeo, etc.)."
+
+#: Shortcodes/SubmitReview.php:427
+msgid "The category that the review will be listed under."
+msgstr "De categorie waar de recensie onder staat."
+
+#: Shortcodes/SubmitReview.php:471
+msgid "out of"
+msgstr "uit"
+
+#: Shortcodes/SubmitReview.php:492 Shortcodes/SubmitReview.php:573
+msgid "Characters remaining:"
+msgstr "Overgebleven karakters:"
+
+#: Shortcodes/SubmitReview.php:596 Shortcodes/SubmitReview.php:777
+msgid "WordPress Login"
+msgstr "WordPress Login"
+
+#: Shortcodes/SubmitReview.php:702 Shortcodes/SubmitReview.php:712
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: Shortcodes/SubmitReview.php:718
+msgid "You have been successfully logged out via Facebook. "
+msgstr "U bent succesvol uitgelogd via Facebook."
+
+#: Shortcodes/SubmitReview.php:720 Shortcodes/SubmitReview.php:728
+msgid "Please reload the page"
+msgstr "Herlaad alstublieft de pagina"
+
+#: Shortcodes/SubmitReview.php:722 Shortcodes/SubmitReview.php:730
+msgid "if you'd like to log in again"
+msgstr "als u opnieuw wilt inloggen"
+
+#: Shortcodes/SubmitReview.php:726
+msgid "You have been successfully logged out via Twitter. "
+msgstr "U bent succesvol uitgelogd via Twitter."
+
+#: Shortcodes/SubmitReview.php:782
+msgid "Login"
+msgstr "Inloggen"
+
+#: html/AdminHeader.php:2
+msgid "Ultimate Reviews"
+msgstr "Ultieme beoordeling"
+
+#: html/Dashboard.php:47 html/Dashboard.php:297
+msgid "Thank You!"
+msgstr "Dank u wel!"
+
+#: html/Dashboard.php:49
+msgid "Thanks for installing the Ultimate Reviews plugin."
+msgstr "Bedankt voor het installeren van de plug-in Ultimate Reviews."
+
+#: html/Dashboard.php:49
+msgid "Subscribe to our YouTube channel "
+msgstr "Abonneer je op ons YouTube-kanaal"
+
+#: html/Dashboard.php:49
+msgid "for tutorial videos on this and our other plugins!"
+msgstr "voor zelfstudievideo's over deze en onze andere plug-ins!"
+
+#: html/Dashboard.php:50
+msgid "Thanks for upgrading to version 1.2.7!"
+msgstr "Bedankt voor het upgraden naar versie 1.2.7!"
+
+#: html/Dashboard.php:50
+msgid "Please rate our plugin"
+msgstr "Beoordeel onze plug-in"
+
+#: html/Dashboard.php:50
+msgid "if you find Ultimate Reviews useful!"
+msgstr "als je Ultimate Reviews nuttig vindt!"
+
+#: html/Dashboard.php:184
+msgid "Order Number"
+msgstr "Bestellingsnummer"
+
+#: html/Dashboard.php:193
+msgid "Name"
+msgstr "Naam"
+
+#: html/Dashboard.php:202 html/OptionsPage.php:1260
+msgid "Status"
+msgstr "Status"
+
+#: html/Dashboard.php:212
+msgid "Customer Notes"
+msgstr "Klanten noties"
+
+#: html/Dashboard.php:222
+msgid "Updated"
+msgstr "Geupdate"
+
+#: html/Dashboard.php:244
+msgid "Hide"
+msgstr "Verberg"
+
+#: html/Dashboard.php:266
+msgid "Bulk Actions"
+msgstr "Bulk Actie"
+
+#: html/Dashboard.php:271
+msgid "Hide Order"
+msgstr "Verberg bestelling"
+
+#: html/Dashboard.php:272
+msgid "Delete"
+msgstr "Wissen"
+
+#: html/Dashboard.php:274
+msgid "Apply"
+msgstr "Toevoegen"
+
+#: html/Dashboard.php:277
+msgid "items"
+msgstr "items"
+
+#: html/Dashboard.php:281
+msgid "of"
+msgstr "of"
+
+#: html/Dashboard.php:299
+msgid ""
+"We wanted to thank the users of our plugins for all of their great reviews "
+"recently."
+msgstr ""
+"We wilden de gebruikers van onze plug-ins onlangs bedanken voor al hun goede "
+"recensies."
+
+#: html/Dashboard.php:300
+msgid ""
+"Your positive feedback and constructive suggestions on how to improve our "
+"plugins make coming in to work every day worth it for us."
+msgstr ""
+"Uw positieve feedback en constructieve suggesties over hoe u onze plug-ins "
+"kunt verbeteren, maken het elke dag waard om voor ons te werken."
+
+#: html/Dashboard.php:301
+msgid "Haven't had a chance to leave a review yet? You can do so at:"
+msgstr ""
+"Heb je nog geen kans gehad om een ​​review achter te laten? U kunt dit doen op:"
+
+#: html/Dashboard.php:305
+msgid "Ask me in a week"
+msgstr "Vraag me over een week"
+
+#: html/Dashboard.php:306
+msgid "Never ask me again"
+msgstr "Vraag me nooit meer"
+
+#: html/Dashboard.php:316
+msgid "Recent Changes"
+msgstr "Afgelopen veranderingen"
+
+#: html/Dashboard.php:326
+msgid "Goes great with:"
+msgstr "Gaat goed met:"
+
+#: html/DashboardPage.php:31
+msgid "Enter Product Key Here"
+msgstr "Voer hier de productsleutel in"
+
+#: html/DashboardPage.php:32
+msgid "UNLOCK PREMIUM"
+msgstr "UNLOCK PREMIUM"
+
+#: html/DashboardPage.php:77
+msgid "Title"
+msgstr "Titel"
+
+#: html/DashboardPage.php:78
+msgid "Views"
+msgstr "Bekeken"
+
+#: html/DashboardPage.php:79
+msgid "Review Rating"
+msgstr "Beoordeling beoordelen"
+
+#: html/DashboardPage.php:84
+msgid ""
+"No reviews to display yet. Create a review and then view it for it to be "
+"displayed here."
+msgstr ""
+"Nog geen beoordelingen om weer te geven. Maak een review en bekijk deze om "
+"hem hier te kunnen weergeven."
+
+#: html/ExportPage.php:5
+msgid "To CSV"
+msgstr "Naar CSV"
+
+#: html/ExportPage.php:18
+msgid "To Spreadsheet"
+msgstr "Naar spreadsheet"
+
+#: html/ImportPage.php:10
+msgid "From WooCommerce"
+msgstr "Van WooCommerce"
+
+#: html/ImportPage.php:21
+msgid "From Spreadsheet"
+msgstr "Van spreadsheet"
+
+#: html/ImportPage.php:27
+msgid "Spreadsheet Containing Reviews"
+msgstr "Spreadsheet met beoordelingen"
+
+#: html/MainScreen.php:4
+msgid "Orders"
+msgstr "Bestellingen"
+
+#: html/MainScreen.php:5
+msgid "Statuses"
+msgstr "Statussen"
+
+#: html/MainScreen.php:6
+msgid "Emails"
+msgstr "E-mails"
+
+#: html/OptionsPage.php:197
+msgid ""
+"To display reviews, place the <strong>[ultimate-reviews]</strong> shortcode "
+"on a page"
+msgstr ""
+"Om beoordelingen weer te geven, plaatst u de shortcode <strong> [ultieme-"
+"recensies] </strong> op een pagina"
+
+#: html/OptionsPage.php:198
+msgid ""
+"To allow visitors to submit a review, place the <strong>[submit-review]</"
+"strong> shortcode on a page"
+msgstr ""
+"Om bezoekers in staat te stellen een beoordeling in te dienen, plaatst u de "
+"shortcode <strong> [beoordeling indienen] </strong> op een pagina"
+
+#: html/OptionsPage.php:203 html/OptionsPage.php:647 html/OptionsPage.php:1960
+msgid "General"
+msgstr "Algemeen"
+
+#: html/OptionsPage.php:327
+msgid "Functionality"
+msgstr "Functionaliteit"
+
+#: html/OptionsPage.php:473
+msgid "Products Available for Review"
+msgstr "Producten beschikbaar voor beoordeling"
+
+#: html/OptionsPage.php:540 html/OptionsPage.php:1334 html/OptionsPage.php:1403
+#: html/OptionsPage.php:1635
+msgid "ADD"
+msgstr "Toevoegen"
+
+#: html/OptionsPage.php:552
+msgid "Display and Layout"
+msgstr "Weergave en indeling"
+
+#: html/OptionsPage.php:800
+msgid "Display Features"
+msgstr "Schermfuncties"
+
+#: html/OptionsPage.php:870
+msgid "Restrictions"
+msgstr "beperkingen"
+
+#: html/OptionsPage.php:1065
+msgid "Settings"
+msgstr "Instellingen"
+
+#: html/OptionsPage.php:1247
+msgid "Review Reminder Emails"
+msgstr "Beoordelingsherinnering E-mails"
+
+#: html/OptionsPage.php:1251
+msgid "Review Reminders"
+msgstr "Beoordelingsherinneringen"
+
+#: html/OptionsPage.php:1257
+msgid "Email to Send"
+msgstr "E-mail om te versturen"
+
+#: html/OptionsPage.php:1258
+msgid "Reminder Interval"
+msgstr "Herinneringsinterval"
+
+#: html/OptionsPage.php:1259
+msgid "Reminder Unit"
+msgstr "Herinneringseenheid"
+
+#: html/OptionsPage.php:1355
+msgid "Customize Your Emails With"
+msgstr "Pas uw e-mails aan met"
+
+#: html/OptionsPage.php:1370
+msgid "Download Now"
+msgstr "Nu downloaden"
+
+#: html/OptionsPage.php:1372
+msgid "Remind Me Later"
+msgstr "Herinner mij nog een keer"
+
+#: html/OptionsPage.php:1379
+msgid "Email Messages"
+msgstr "E-mail bericht"
+
+#: html/OptionsPage.php:1384
+msgid "Message Subject"
+msgstr "Onderwerp bericht"
+
+#: html/OptionsPage.php:1385
+msgid "Message"
+msgstr "Bericht"
+
+#: html/OptionsPage.php:1448
+msgid "Reminder Email Styling"
+msgstr "Herinnering e-mailstijl"
+
+#: html/OptionsPage.php:1452
+msgid "Email"
+msgstr "E-mail"
+
+#: html/OptionsPage.php:1455 html/OptionsPage.php:1477
+#: html/OptionsPage.php:2215 html/OptionsPage.php:2279
+#: html/OptionsPage.php:2324
+msgid "Colors"
+msgstr "Kleuren"
+
+#: html/OptionsPage.php:1458 html/OptionsPage.php:1480
+#: html/OptionsPage.php:1493 html/OptionsPage.php:2282
+#: html/OptionsPage.php:2295 html/OptionsPage.php:2327
+msgid "Background"
+msgstr "Achtergrond"
+
+#: html/OptionsPage.php:1462
+msgid "Inner Background"
+msgstr "Innerlijke achtergrond"
+
+#: html/OptionsPage.php:1466 html/OptionsPage.php:1484
+#: html/OptionsPage.php:1497 html/OptionsPage.php:2286
+#: html/OptionsPage.php:2299
+msgid "Text"
+msgstr "Tekst"
+
+#: html/OptionsPage.php:1474
+msgid "Button"
+msgstr "Knop"
+
+#: html/OptionsPage.php:1490 html/OptionsPage.php:2292
+msgid "Hover Colors"
+msgstr "Hover kleuren"
+
+#: html/OptionsPage.php:1522
+msgid "Review Field Options"
+msgstr "Bekijk veldopties"
+
+#: html/OptionsPage.php:1570
+msgid "In-Depth Review Fields"
+msgstr "Diepgaande beoordelingsvelden"
+
+#: html/OptionsPage.php:1579
+msgid "Field Name"
+msgstr "Veld naam"
+
+#: html/OptionsPage.php:1580
+msgid "Required?"
+msgstr "Verplicht?"
+
+#: html/OptionsPage.php:1581
+msgid "Allow Explanation"
+msgstr "Uitleg toegestaan"
+
+#: html/OptionsPage.php:1582
+msgid "Type"
+msgstr "Soort"
+
+#: html/OptionsPage.php:1583
+msgid "Filterable"
+msgstr "Filterbaar"
+
+#: html/OptionsPage.php:1606
+msgid "No"
+msgstr "Nee"
+
+#: html/OptionsPage.php:1607
+msgid "Yes"
+msgstr "Ja"
+
+#: html/OptionsPage.php:1663
+msgid "Order Options"
+msgstr "Bestel opties"
+
+#: html/OptionsPage.php:1733 html/OptionsPage.php:2089
+#: html/OptionsPage.php:2268
+msgid "Review Content"
+msgstr "Beoordelingsinhoud"
+
+#: html/OptionsPage.php:1740
+msgid "Posted"
+msgstr "Geplaatst"
+
+#: html/OptionsPage.php:1744
+msgid "By"
+msgstr "Door"
+
+#: html/OptionsPage.php:1748
+msgid "On"
+msgstr "Op"
+
+#: html/OptionsPage.php:1764
+msgid "'Categories' Label"
+msgstr "'Categorieën' label"
+
+#: html/OptionsPage.php:1782
+msgid "Filtering Area"
+msgstr "Filter omgeving"
+
+#: html/OptionsPage.php:1789
+msgid "Filter (button)"
+msgstr "Filter (knop)"
+
+#: html/OptionsPage.php:1823
+msgid "Submit Reviews"
+msgstr "Beoordeling toevoegen"
+
+#: html/OptionsPage.php:1838
+msgid "Author 'Comment'"
+msgstr "Auteur 'Reactie'"
+
+#: html/OptionsPage.php:1846
+msgid "Title 'Comment'"
+msgstr "Titel 'Reactie'"
+
+#: html/OptionsPage.php:1858
+msgid "Category 'Score'"
+msgstr "Categorie 'Score'"
+
+#: html/OptionsPage.php:1862
+msgid "Category 'Explanation'"
+msgstr "Categorie 'Uitleg'"
+
+#: html/OptionsPage.php:1866
+msgid "'Send Review' Button"
+msgstr "'Verstuur beoordeling' knop"
+
+#: html/OptionsPage.php:1874
+msgid "Email Address Instructions"
+msgstr "E-mailadres instructies"
+
+#: html/OptionsPage.php:1896
+msgid "Reviews Summary"
+msgstr "Beoordelingen Samenvatting"
+
+#: html/OptionsPage.php:1907
+msgid "Ratings"
+msgstr "Waarderingen"
+
+#: html/OptionsPage.php:1925
+msgid "Messages"
+msgstr "Berciht"
+
+#: html/OptionsPage.php:1932
+msgid "Submit Success Message"
+msgstr "Verzend succesbericht"
+
+#: html/OptionsPage.php:1936
+msgid "Submit Draft Add On Message"
+msgstr "Inzending Concept toevoegen bij bericht"
+
+#: html/OptionsPage.php:2047
+msgid "Premium Styling Options"
+msgstr "Premium Styling Opties"
+
+#: html/OptionsPage.php:2054 html/OptionsPage.php:2092
+#: html/OptionsPage.php:2130 html/OptionsPage.php:2168
+msgid "Font Color"
+msgstr "Letterype kleur"
+
+#: html/OptionsPage.php:2063 html/OptionsPage.php:2101
+#: html/OptionsPage.php:2139 html/OptionsPage.php:2177
+msgid "Font Family"
+msgstr "Lettertype familie"
+
+#: html/OptionsPage.php:2069 html/OptionsPage.php:2107
+#: html/OptionsPage.php:2145 html/OptionsPage.php:2183
+msgid "Font Size"
+msgstr "Lettertype grootte"
+
+#: html/OptionsPage.php:2075 html/OptionsPage.php:2113
+#: html/OptionsPage.php:2151 html/OptionsPage.php:2189
+msgid "Margin"
+msgstr "Margin"
+
+#: html/OptionsPage.php:2081 html/OptionsPage.php:2119
+#: html/OptionsPage.php:2157 html/OptionsPage.php:2195
+msgid "Padding"
+msgstr "Padding"
+
+#: html/OptionsPage.php:2127
+msgid "Review Post Date"
+msgstr "Datum van beoordeling"
+
+#: html/OptionsPage.php:2219
+msgid "Review Colors"
+msgstr "Beoordelingskleuren"
+
+#: html/OptionsPage.php:2222
+msgid "Summary Statistics"
+msgstr "Samenvatting statestieken"
+
+#: html/OptionsPage.php:2231
+msgid "Simple Bar"
+msgstr "Simpele Bar"
+
+#: html/OptionsPage.php:2240
+msgid "Color Bar"
+msgstr "Kleur bar"
+
+#: html/OptionsPage.php:2243
+msgid "High"
+msgstr "Hoog"
+
+#: html/OptionsPage.php:2247
+msgid "Medium"
+msgstr "Medium"
+
+#: html/OptionsPage.php:2251
+msgid "Low"
+msgstr "Laag"
+
+#: html/OptionsPage.php:2257
+msgid "Backgrounds"
+msgstr "Achtergrond"
+
+#: html/OptionsPage.php:2260
+msgid "Review Container"
+msgstr "Beoordeling container"
+
+#: html/OptionsPage.php:2264
+msgid "Review Header"
+msgstr "Beoordeling Header"
+
+#: html/OptionsPage.php:2276
+msgid "Read More Button"
+msgstr "Lees meer knop"
+
+#: html/OptionsPage.php:2307
+msgid "Image Review Style"
+msgstr "Afbeelding Beoordeling style"
+
+#: html/OptionsPage.php:2310
+msgid "Background Color"
+msgstr "Achtergrond kleur"
+
+#: html/OptionsPage.php:2321
+msgid "Circle Graph"
+msgstr "Circle Graph"
+
+#: html/OptionsPage.php:2331
+msgid "Fill"
+msgstr "Vullend"

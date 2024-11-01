@@ -1,0 +1,1 @@
+<input type="hidden" name="order_id" value="<?php echo esc_attr( intval( $_REQUEST['order_id'] ) ); ?>" />

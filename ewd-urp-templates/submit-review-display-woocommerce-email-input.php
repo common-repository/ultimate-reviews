@@ -1,0 +1,1 @@
+<input type='hidden' name='wc_email' value='<?php echo esc_attr( $this->woocommerce_email ); ?>' />

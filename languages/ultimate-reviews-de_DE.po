@@ -1,0 +1,1015 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Reviews\n"
+"POT-Creation-Date: 2019-04-05 06:09+0000\n"
+"PO-Revision-Date: 2019-04-27 12:39+0000\n"
+"Language-Team: Deutsch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Last-Translator: Kevin Geiger <kevin.geiger98@gmx.de>\n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: Shortcodes/DisplayReviews.php:378
+msgid " of "
+msgstr "von"
+
+#: Shortcodes/DisplayReviews.php:59
+msgid " reviews "
+msgstr "Rezessionen"
+
+#: Functions/EWD_URP_Add_Views_Column.php:6
+msgid "# of Views"
+msgstr "# Anzahl der Ansichten"
+
+#: html/WelcomeScreen.php:15
+msgid "1. Submit Review Page"
+msgstr "1. Rezession abschicken"
+
+#: html/WelcomeScreen.php:29
+msgid "2. Display Reviews Page"
+msgstr "2. Rezessionen anzeigen"
+
+#: html/WelcomeScreen.php:44
+msgid "3. Set Key Options"
+msgstr "3. Legen Sie die Schlüsseloptionen fest"
+
+#: html/WelcomeScreen.php:119
+msgid "4. Categories"
+msgstr "4. Kategorien"
+
+#: Shortcodes/SubmitReview.php:402
+msgid ""
+"A link to a video for this review from an external site (YouTube, Vimeo, etc."
+")."
+msgstr ""
+"Ein Link zu einem Video für diese Rezession von einer externen Website "
+"(YouTube, Vimeo usw.)."
+
+#: html/WelcomeScreen.php:125
+msgid "Add Category"
+msgstr ""
+"\n"
+"12/5000\n"
+"Kategorie hinzufügen"
+
+#: Main.php:100 Functions/Register_EWD_URP_Posts_Taxonomies.php:8
+msgid "Add New"
+msgstr "Neue hinzufügen"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:9
+msgid "Add New Review"
+msgstr "Neue Rezession hinzufügen"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:55
+msgid "Add New Review Category"
+msgstr "Neue Rezessionskategorie hinzufügen"
+
+#: Shortcodes/DisplayReviews.php:399
+msgid "All"
+msgstr "Alles"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:50
+msgid "All Review Categories"
+msgstr ""
+"\n"
+"Alle Rezessionskategorien"
+
+#: html/Dashboard.php:274
+msgid "Apply"
+msgstr "Sich bewerben"
+
+#: Main.php:95
+msgid "Approved Reviews"
+msgstr "Zugelassene Reviews"
+
+#: Functions/EWD_URP_Submit_Review.php:425
+msgid "Author"
+msgstr ""
+"\n"
+"Autor"
+
+#: Shortcodes/DisplayReviews.php:571
+msgid "Average Score"
+msgstr "Durchschnittliche Punktzahl"
+
+#: Main.php:96
+msgid "Awaiting Approval"
+msgstr "Warten auf Genehmigung"
+
+#: Shortcodes/Display_Summary_Statistics.php:33
+msgid "Back to Summary"
+msgstr "Zurück zur Übersicht"
+
+#: html/Dashboard.php:266
+msgid "Bulk Actions"
+msgstr "Massenaktionen"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:424
+#: Shortcodes/SelectReview.php:100
+msgid "by "
+msgstr "durch"
+
+#: Functions/EWD_URP_Submit_Review.php:258
+msgid "by going to the following link:"
+msgstr "Gehen Sie zu folgendem Link:"
+
+#: Main.php:101 Shortcodes/SelectReview.php:225
+msgid "Categories"
+msgstr "Kategorien"
+
+#: html/WelcomeScreen.php:121
+msgid ""
+"Categories let you organize your reviews in a way that's easy for you - and "
+"your customers - to find."
+msgstr ""
+"Mit Kategorien können Sie Ihre Bewertungen so organisieren, dass Sie - und "
+"Ihre Kunden - sie leicht finden können."
+
+#: html/WelcomeScreen.php:124
+msgid "Category Description:"
+msgstr "Kategorienbeschreibung:"
+
+#: html/WelcomeScreen.php:123
+msgid "Category Name:"
+msgstr "Kategoriename:"
+
+#: Shortcodes/SubmitReview.php:492 Shortcodes/SubmitReview.php:573
+msgid "Characters remaining:"
+msgstr "Verbleibende Zeichen:"
+
+#: Shortcodes/SubmitReview.php:171
+msgid "Click to add your own review!"
+msgstr "Klicken Sie hier, um Ihre eigene Rezension hinzuzufügen!"
+
+#: Functions/EWD_URP_Submit_Review.php:259
+msgid "Confirm your email address"
+msgstr ""
+"\n"
+"Bestätigen Sie Ihre E-Mail-Adresse"
+
+#: html/WelcomeScreen.php:20 html/WelcomeScreen.php:34
+msgid "Create Page"
+msgstr "Seite erstellen"
+
+#: html/WelcomeScreen.php:128
+msgid "Created Categories:"
+msgstr "Erstellte Kategorien:"
+
+#: html/Dashboard.php:212
+msgid "Customer Notes"
+msgstr "Kundenhinweise"
+
+#: Main.php:93
+msgid "Dashboard"
+msgstr "Instrumententafel"
+
+#: html/Dashboard.php:272
+msgid "Delete"
+msgstr "Löschen"
+
+#: html/WelcomeScreen.php:130
+msgid "Description"
+msgstr "Beschreibung"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:10
+msgid "Edit Review"
+msgstr "Rezession bearbeiten"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:53
+msgid "Edit Review Category"
+msgstr "Rezession-Kategorie bearbeiten"
+
+#: Functions/Error_Notices.php:47
+msgid "Email Address"
+msgstr "E-Mail-Addresse"
+
+#: Functions/EWD_URP_Submit_Review.php:254
+msgid "Email Confirmation for Product Review"
+msgstr "E-Mail-Bestätigung zur Produktprüfung"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:161
+msgid "Email Confirmed:"
+msgstr "E-Mail bestätigt:"
+
+#: html/DashboardPage.php:31
+msgid "Enter Product Key Here"
+msgstr "Produktschlüssel hier eingeben"
+
+#. Author of the plugin
+msgid "Etoile Web Design"
+msgstr "Etoile Web Design"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:271
+#: Shortcodes/SelectReview.php:106 Shortcodes/SubmitReview.php:561
+msgid "Explanation"
+msgstr "Erläuterung"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:430
+msgid "Explanation "
+msgstr "Erläuterung"
+
+#: Main.php:103
+msgid "Export"
+msgstr "Export"
+
+#: Functions/EWD_URP_Import.php:147
+msgid "Failed to write file to disk"
+msgstr "Fehler beim Schreiben der Datei auf Festplatte"
+
+#: Functions/EWD_URP_Import.php:165
+msgid "File must be .csv, .xls or .xlsx"
+msgstr "Die Datei muss .csv, .xls oder .xlsx sein"
+
+#: Functions/EWD_URP_Submit_Review.php:332
+msgid "File must be .jpg or .png"
+msgstr "Die Datei muss .jpg oder .png sein"
+
+#: Functions/EWD_URP_Import.php:150
+msgid "File upload stopped by extension"
+msgstr "Dateiupload wurde von der Erweiterung gestoppt"
+
+#: Shortcodes/DisplayReviews.php:395
+msgid "Filter"
+msgstr "Filter"
+
+#: html/Dashboard.php:49
+msgid "for tutorial videos on this and our other plugins!"
+msgstr "für Tutorialvideos zu diesem und unseren anderen Plugins!"
+
+#: html/ImportPage.php:21
+msgid "From Spreadsheet"
+msgstr "Aus der Tabelle"
+
+#: html/ImportPage.php:10
+msgid "From WooCommerce"
+msgstr "Von WooCommerce"
+
+#: Functions/EWD_URP_Upgrade_Box.php:7 html/Dashboard.php:19
+msgid "Full Version"
+msgstr "Vollversion"
+
+#: Functions/EWD_URP_Submit_Review.php:306
+msgid "Have a great day,"
+msgstr "Ich wünsche ihnen einen wunderbaren Tag,"
+
+#: Functions/EWD_URP_Submit_Review.php:300
+msgid "Hello Admin,"
+msgstr "Hallo Admin,"
+
+#: Functions/EWD_URP_Submit_Review.php:256
+msgid "Hello,"
+msgstr "Hallo,"
+
+#: html/Dashboard.php:244
+msgid "Hide"
+msgstr "Ausblenden"
+
+#: html/Dashboard.php:271
+msgid "Hide Order"
+msgstr "Bestellung ausblenden"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.EtoileWebDesign.com/plugins/ultimate-reviews/"
+msgstr "http://www.EtoileWebDesign.com/plugins/ultimate-reviews/"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:29
+msgid "I couldn't get the plugin to work"
+msgstr "Ich konnte das Plugin nicht zum Laufen bringen"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:22
+msgid "I no longer need the plugin"
+msgstr "Ich brauche das Plugin nicht mehr"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:25
+msgid "I'm switching to a different plugin"
+msgstr "Ich wechsle zu einem anderen Plugin"
+
+#: html/Dashboard.php:50
+msgid "if you find Ultimate Reviews useful!"
+msgstr "Wenn Sie Ultimate Reviews nützlich finden!"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:45
+msgid ""
+"If you have a moment, please share why you are deactivating Ultimate Reviews:"
+msgstr ""
+"Wenn Sie einen Moment Zeit haben, teilen Sie uns mit, warum Sie Ultimate "
+"Reviews deaktiviert haben:"
+
+#: Shortcodes/SubmitReview.php:722 Shortcodes/SubmitReview.php:730
+msgid "if you'd like to log in again"
+msgstr "Wenn Sie sich erneut anmelden möchten"
+
+#: Functions/EWD_URP_Captcha.php:8
+msgid "Image Number"
+msgstr "Bildnummer"
+
+#: Main.php:102
+msgid "Import"
+msgstr "Import"
+
+#: Functions/EWD_URP_Add_Views_Column.php:10
+msgid "Inappropriate Flag"
+msgstr "Unangemessene Flagge"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:33
+msgid "It's a temporary deactivation"
+msgstr "Es ist eine vorübergehende Deaktivierung"
+
+#: html/Dashboard.php:277
+msgid "items"
+msgstr "Artikel"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:90
+msgid "Leave a review"
+msgstr "Hinterlassen Sie eine Rezession"
+
+#: Shortcodes/SubmitReview.php:782
+msgid "Login"
+msgstr "Anmeldung"
+
+#: Shortcodes/SubmitReview.php:111
+msgid "Login Options:"
+msgstr "Login-Optionen:"
+
+#: Shortcodes/SubmitReview.php:702 Shortcodes/SubmitReview.php:712
+msgid "Logout"
+msgstr "Logout"
+
+#: html/WelcomeScreen.php:49
+msgid "Maximum Review Score"
+msgstr "Maximale Bewertungspunktzahl"
+
+#: Main.php:92
+msgid "MENU"
+msgstr "Menü"
+
+#: Functions/EWD_URP_Import.php:144
+msgid "Missing a temporary folder"
+msgstr "Es fehlt ein temporärer Ordner"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:73
+msgid "Most recent reviews"
+msgstr "Neueste Rezessionen"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:75
+msgid "Most useful reviews"
+msgstr "Nützlichste Rezensionen"
+
+#: html/WelcomeScreen.php:129 html/Dashboard.php:193
+msgid "Name"
+msgstr "Name"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:80
+msgid "Need Help?"
+msgstr "Brauche Hilfe?"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:11
+msgid "New Review"
+msgstr "Neue Rezession"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:56
+msgid "New Review Category Name"
+msgstr "Neuer Name der Rezessionskategorie"
+
+#: Functions/EWD_URP_Submit_Review.php:298
+msgid "New Review Received"
+msgstr "Neue Rezession erhalten"
+
+#: html/WelcomeScreen.php:23 html/WelcomeScreen.php:37
+#: html/WelcomeScreen.php:112
+msgid "Next"
+msgstr "Nächster"
+
+#: Functions/EWD_URP_Import.php:154
+msgid "No error code avaiable"
+msgstr "Kein Fehlercode verfügbar"
+
+#: Functions/EWD_URP_Import.php:159
+msgid "No file was uploaded here.."
+msgstr "Es wurde keine Datei hier hochgeladen."
+
+#: Functions/EWD_URP_Import.php:140
+msgid "No file was uploaded."
+msgstr "Es wurde keine Datei hochgeladen."
+
+#: Shortcodes/DisplayReviews.php:486
+msgid "No matching reviews found."
+msgstr "Keine passenden Bewertungen gefunden."
+
+#: html/DashboardPage.php:84
+msgid ""
+"No reviews to display yet. Create a review and then view it for it to be "
+"displayed here."
+msgstr ""
+"Noch keine Bewertungen angezeigt. Erstellen Sie eine Rezension und schicken "
+"Sie sie ab, um sie hier zu sehen."
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:14
+msgid "Nothing found"
+msgstr "Nichts gefunden"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:15
+msgid "Nothing found in Trash"
+msgstr "Nichts im Papierkorb gefunden"
+
+#: html/Dashboard.php:281
+msgid "of"
+msgstr "von"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:426
+#: Shortcodes/SelectReview.php:102
+msgid "on "
+msgstr "auf"
+
+#: Main.php:104
+msgid "Options"
+msgstr "Optionen"
+
+#: html/WelcomeScreen.php:46
+msgid ""
+"Options can always be changed later, but here are a few than a lot of users "
+"want to set for themselves."
+msgstr ""
+"Optionen können immer später geändert werden, aber hier sind einige, die "
+"sich viele Benutzer selbst festlegen möchten."
+
+#: Functions/Update_EWD_URP_Admin_Databases.php:279
+msgid "Options have been successfully updated."
+msgstr "Optionen wurden erfolgreich aktualisiert."
+
+#: html/Dashboard.php:184
+msgid "Order Number"
+msgstr "Bestellnummer"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:36
+msgid "Other"
+msgstr "Andere"
+
+#: Shortcodes/SubmitReview.php:471
+msgid "out of"
+msgstr "aus"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:204
+#: Shortcodes/SubmitReview.php:442
+msgid "Overall Score"
+msgstr "Gesamtpunktzahl"
+
+#: html/WelcomeScreen.php:19 html/WelcomeScreen.php:33
+msgid "Page Title:"
+msgstr "Seitentitel:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:51
+msgid "Parent Review Category"
+msgstr "Übergeordnete Rezessionenskategorie"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:52
+msgid "Parent Review Category:"
+msgstr "Kategorie der übergeordneten Rezession:"
+
+#: Functions/EWD_URP_Submit_Review.php:257
+msgid ""
+"Please confirm your email address for the product review you submitted "
+"titled "
+msgstr ""
+"Bitte bestätigen Sie Ihre E-Mail-Adresse für die von Ihnen übermittelte "
+"Produktbewertung"
+
+#: Shortcodes/SubmitReview.php:333
+msgid ""
+"Please confirm your email to verify your identity. It will not be displayed."
+msgstr ""
+"Bitte bestätigen Sie Ihre E-Mail, um Ihre Identität zu verifizieren. Es wird "
+"nicht angezeigt."
+
+#: Shortcodes/SubmitReview.php:71
+msgid "Please fill out the form below to submit a review."
+msgstr ""
+"Bitte füllen Sie das untenstehende Formular aus, um eine Rezession abzugeben."
+
+#: Shortcodes/SubmitReview.php:109
+msgid "Please log in to leave a review"
+msgstr "Bitte melden Sie sich an, um eine Rezession abzugeben"
+
+#: html/Dashboard.php:50
+msgid "Please rate our plugin"
+msgstr "Bitte bewerten Sie unser Plugin"
+
+#: Shortcodes/SubmitReview.php:720 Shortcodes/SubmitReview.php:728
+msgid "Please reload the page"
+msgstr "Bitte laden Sie die Seite neu"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:37
+msgid "Please share the reason"
+msgstr "Bitte teilen Sie den Grund"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:30
+msgid "Please share what wasn't working"
+msgstr "Bitte teilen Sie mit, was nicht funktioniert hat"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:26
+msgid "Please share which plugin"
+msgstr "Bitte teilen Sie welches Plugin"
+
+#. Base ID
+#: Functions/EWD_URP_Widgets.php:178
+msgid "Popular Reviews"
+msgstr "Beliebte Rezension"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:194
+msgid "Post Author:"
+msgstr "Post Autor:"
+
+#: Functions/EWD_URP_Add_Views_Column.php:9
+msgid "Post ID"
+msgstr "Beitrags-ID"
+
+#: Functions/EWD_URP_Submit_Review.php:419
+msgid "Post Title"
+msgstr "Titel veröffentlichen"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:422
+#: Shortcodes/SelectReview.php:98
+msgid "Posted "
+msgstr "Gesendet"
+
+#: html/WelcomeScreen.php:38 html/WelcomeScreen.php:111
+msgid "Previous"
+msgstr "Bisherige"
+
+#: html/WelcomeScreen.php:133
+msgid "Previous Step"
+msgstr "Vorheriger Schritt"
+
+#: Functions/EWD_URP_Add_Views_Column.php:7
+msgid "Product"
+msgstr "Produkt"
+
+#: Functions/EWD_URP_Upgrade_Box.php:20 html/Dashboard.php:32
+msgid "Product Key"
+msgstr "Produktschlüssel"
+
+#: Functions/EWD_URP_Submit_Review.php:422 Shortcodes/SubmitReview.php:211
+#: Shortcodes/DisplayReviews.php:397
+msgid "Product Name"
+msgstr "Produktname"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:185
+msgid "Product Name:"
+msgstr "Produktname:"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:44
+msgid "Quick Feedback"
+msgstr "Quick Feedback"
+
+#: Shortcodes/DisplayReviews.php:574
+msgid "rating"
+msgstr "bewertung"
+
+#: Shortcodes/DisplayReviews.php:575
+msgid "ratings"
+msgstr "Bewertungen"
+
+#: Shortcodes/SelectReview.php:269
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#. Base ID
+#: Functions/EWD_URP_Widgets.php:10
+msgid "Recent Reviews"
+msgstr "Aktuelle Rezension"
+
+#: Functions/EWD_URP_Submit_Review.php:428
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:6
+#: Shortcodes/SubmitReview.php:483
+msgid "Review"
+msgstr "Rezension"
+
+#: Shortcodes/SubmitReview.php:295 Shortcodes/DisplayReviews.php:403
+msgid "Review Author"
+msgstr "Autor der Rezension"
+
+#: Functions/EWD_URP_Submit_Review.php:431
+msgid "Review Author Email"
+msgstr "Überprüfen Sie die E-Mail des Autors"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:47
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:57
+msgid "Review Categories"
+msgstr "Rezensions Kategorien"
+
+#: Functions/EWD_URP_Submit_Review.php:437
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:48 html/WelcomeScreen.php:75
+#: Shortcodes/SubmitReview.php:419
+msgid "Review Category"
+msgstr "Rezension Kategorie"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:79
+msgid "Review Details"
+msgstr "RezensionDetails"
+
+#: html/WelcomeScreen.php:94
+msgid "Review Filtering"
+msgstr "Rezensions Filterung"
+
+#: Shortcodes/SelectReview.php:161
+msgid "Review for"
+msgstr "Rezension für"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:448
+msgid "Review for "
+msgstr "Rezension für"
+
+#: Shortcodes/SubmitReview.php:380
+msgid "Review Image"
+msgstr "Rezensionsbild"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:139
+msgid "Review Karma:"
+msgstr "Rezensions Karma:"
+
+#: Shortcodes/SubmitReview.php:228
+msgid "Review of "
+msgstr "Rezension von"
+
+#: Shortcodes/DisplayReviews.php:401
+msgid "Review Score"
+msgstr "Rezensionspunktzahl"
+
+#: html/WelcomeScreen.php:61
+msgid "Review Score Input"
+msgstr "Rezensionseingabe"
+
+#: Shortcodes/SubmitReview.php:354
+msgid "Review Title"
+msgstr "Titel der Rezension"
+
+#: Shortcodes/SubmitReview.php:399
+msgid "Review Video"
+msgstr "Rezensionsvideo"
+
+#: Functions/EWD_URP_Submit_Review.php:434
+msgid "Review Video URL"
+msgstr "Rezensionsvideo URL"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:173
+msgid "Review Video:"
+msgstr "Rezensionvideo :"
+
+#: Functions/EWD_URP_Submit_Review.php:113
+msgid "Review was not created succesfully."
+msgstr "Rezension wurde nicht erfolgreich erstellt."
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:118
+msgid "Review Weight:"
+msgstr "Rezensionsgewichtung:"
+
+#: Shortcodes/SubmitReview.php:331
+msgid "Reviewer's Email Address"
+msgstr "E-Mail-Adresse des Rezensenten"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:150
+msgid "Reviewer's Email:"
+msgstr "E-Mail des Rezensenten:"
+
+#: Main.php:98 Functions/EWD_URP_Replace_WooCommerce_Reviews.php:37
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:104
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:5
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:7
+msgid "Reviews"
+msgstr "Rezension"
+
+#: Functions/EWD_URP_Import.php:119
+msgid "Reviews added successfully."
+msgstr "Rezension erfolgreich hinzugefügt."
+
+#: Shortcodes/DisplayReviews.php:316 Shortcodes/DisplayReviews.php:340
+msgid "Reviews for"
+msgstr "Rezension für"
+
+#. Description of the plugin
+msgid ""
+"Reviews plugin to let visitors submit reviews and display them via shortcode "
+"or widget. Replace WooCommerce reviews and ratings. Require login, etc."
+msgstr ""
+"Rezensions-Plug-In, über das Besucher Rezensionen abgeben und per Kurzcode "
+"oder Widget anzeigen können. Ersetzen Sie die Rezensionen und Bewertungen "
+"von WooCommerce. Login erforderlich usw.\n"
+
+#. Base ID
+#: Functions/EWD_URP_Widgets.php:278
+msgid "Reviews Slider"
+msgstr "Rezensionen Slider"
+
+#: html/WelcomeScreen.php:109
+msgid "Save Options"
+msgstr "Optionen speichern"
+
+#: Functions/EWD_URP_Add_Views_Column.php:8
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:219
+#: Shortcodes/SelectReview.php:104 Shortcodes/SubmitReview.php:444
+msgid "Score"
+msgstr "Ergebnis"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:428
+msgid "Score "
+msgstr "Ergebnis"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:49
+msgid "Search Review Categories"
+msgstr "Suche nach Rezensionskategorien"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:13
+#: Shortcodes/Display_URP_Search.php:18
+msgid "Search Reviews"
+msgstr "Rezensionen durchsuchen"
+
+#: Functions/EWD_URP_Submit_Review.php:305
+msgid "See the review"
+msgstr "Siehe die Rezension"
+
+#. Base ID
+#: Functions/EWD_URP_Widgets.php:109
+msgid "Selected Reviews"
+msgstr "Ausgewählte Rezensionen"
+
+#: Shortcodes/SubmitReview.php:58 Shortcodes/SubmitReview.php:72
+msgid "Send Review"
+msgstr "Rezension senden"
+
+#: Functions/EWD_URP_Add_Views_Column.php:173
+msgid "Show All Products"
+msgstr ""
+"\n"
+"17/5000\n"
+"Alle Produkte anzeigen"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:61
+msgid "Skip and Deactivate"
+msgstr "Überspringen und deaktivieren"
+
+#: html/WelcomeScreen.php:140
+msgid "Skip Setup"
+msgstr "Setup überspringen"
+
+#: html/ImportPage.php:27
+msgid "Spreadsheet Containing Reviews"
+msgstr "Tabelle die Rezensionen enthalten"
+
+#: html/Dashboard.php:202
+msgid "Status"
+msgstr "Status"
+
+#: Shortcodes/SubmitReview.php:70
+msgid "Submit a Review"
+msgstr "Rezension einreichen"
+
+#: Functions/EWD_URP_Deactivation_Survey.php:60
+msgid "Submit and Deactivate"
+msgstr "Senden und deaktivieren"
+
+#: html/Dashboard.php:49
+msgid "Subscribe to our YouTube channel "
+msgstr "Abonniere unseren YouTube-Kanal"
+
+#: Shortcodes/DisplayReviews.php:529
+msgid "Summary for"
+msgstr "Zusammenfassung für"
+
+#: Functions/EWD_URP_Submit_Review.php:277
+msgid "Thank you for confirming your email address!"
+msgstr "Vielen Dank für die Bestätigung Ihrer E-Mail-Adresse!"
+
+#: Shortcodes/SubmitReview.php:68
+msgid "Thank you for submitting a review."
+msgstr "Vielen Dank für Ihre Bewertung."
+
+#: Functions/EWD_URP_Submit_Review.php:260
+msgid "Thank you for the review, and have a great day,"
+msgstr "Vielen Dank für die Bewertung und einen schönen Tag."
+
+#: html/Dashboard.php:47
+msgid "Thank You!"
+msgstr "Danke dir!"
+
+#: html/WelcomeScreen.php:11
+msgid ""
+"Thanks for choosing Ultimate Reviews! The following will help you get "
+"started with the setup by creating pages to accept and display reviews, "
+"configuring a few key options, and creating some review categories."
+msgstr ""
+"Vielen Dank, dass Sie sich für Ultimate Reviews entschieden haben! Im "
+"Folgenden erhalten Sie eine Einführung in das Setup, indem Sie Seiten "
+"erstellen, um Bewertungen anzunehmen und anzuzeigen, einige wichtige "
+"Optionen konfigurieren und einige Rezessionskategorien erstellen."
+
+#: html/Dashboard.php:49
+msgid "Thanks for installing the Ultimate Reviews plugin."
+msgstr "Vielen Dank für die Installation des Ultimate Reviews-Plugins."
+
+#: html/Dashboard.php:50
+msgid "Thanks for upgrading to version 1.2.7!"
+msgstr "Vielen Dank für das Upgrade auf Version 1.2.7!"
+
+#: Shortcodes/SubmitReview.php:427
+msgid "The category that the review will be listed under."
+msgstr "Die Kategorie, unter der die Rezension aufgeführt wird."
+
+#: Functions/Update_EWD_URP_Content.php:23
+msgid "The form has not worked correctly. Please contact the plugin developer."
+msgstr ""
+"Das Formular hat nicht richtig funktioniert. Bitte wenden Sie sich an den "
+"Plugin-Entwickler."
+
+#: Shortcodes/SubmitReview.php:383
+msgid "The image that should be associated with your review"
+msgstr "Das Bild, das Ihrer Rezension zugeordnet werden soll"
+
+#: Functions/EWD_URP_Submit_Review.php:66
+msgid "The number entered in the captcha field was not correct."
+msgstr "Die im Captcha-Feld eingegebene Nummer war nicht korrekt."
+
+#: Functions/EWD_URP_Submit_Review.php:302
+msgid "The review reads:<br>"
+msgstr "Die Bewertung lautet: <br>"
+
+#: Functions/EWD_URP_Import.php:134
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+"Die hochgeladene Datei überschreitet die im HTML-Formular angegebene "
+"Anweisung MAX_FILE_SIZE"
+
+#: Functions/EWD_URP_Import.php:131
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+"Die hochgeladene Datei überschreitet die Direktive upload_max_filesize in "
+"der php.ini"
+
+#: Functions/EWD_URP_Import.php:137
+msgid "The uploaded file was only partially uploaded"
+msgstr "Die hochgeladene Datei wurde nur teilweise hochgeladen"
+
+#: html/ExportPage.php:5
+msgid "To CSV"
+msgstr "Zu CSV"
+
+#: html/ExportPage.php:18
+msgid "To Spreadsheet"
+msgstr "Zur Kalkulationstabelle"
+
+#: Functions/EWD_URP_Upgrade_Box.php:9 html/Dashboard.php:21
+msgid ""
+"to take advantage of all the available features of Ultimate Reviews for "
+"Wordpress!"
+msgstr "alle verfügbaren Funktionen von Ultimate Reviews für Wordpress nutzen!"
+
+#: Functions/EWD_URP_Replace_WooCommerce_Reviews.php:74
+msgid "Top reviews"
+msgstr "Top-Bewertungen"
+
+#: Functions/Full_Upgrade.php:8
+msgid "Trial successfully started!"
+msgstr "Test erfolgreich gestartet!"
+
+#. Name of the plugin
+#: html/AdminHeader.php:2 blocks/ewd-urp-blocks.php:6
+msgid "Ultimate Reviews"
+msgstr "Ultimate Reviews"
+
+#: Functions/EWD_URP_Initial_Data.php:8 Functions/EWD_URP_Initial_Data.php:9
+msgid "Ultimate Reviews - Welcome!"
+msgstr "Ultimate Reviews - Wilkommen!"
+
+#: html/DashboardPage.php:32
+msgid "UNLOCK PREMIUM"
+msgstr "ENTRIEGELUNG PREMIUM"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:54
+msgid "Update Review Category"
+msgstr "Überprüfungskategorie aktualisieren"
+
+#: html/Dashboard.php:222
+msgid "Updated"
+msgstr "Aktualisierte"
+
+#: Functions/EWD_URP_Upgrade_Box.php:23 html/Dashboard.php:35
+msgid "Upgrade"
+msgstr "Aktualisierte"
+
+#: Functions/EWD_URP_Upgrade_Box.php:9 html/Dashboard.php:21
+msgid "Upgrade to the full version "
+msgstr ""
+"Aktualisieren Sie auf die Vollversion\n"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:69
+msgid "Use the following shortcode to add this review to a page:"
+msgstr ""
+"Verwenden Sie den folgenden Kurzcode, um diese Rezension zu einer Seite "
+"hinzuzufügen:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:12
+msgid "View Review"
+msgstr "Review anzeigen"
+
+#: html/WelcomeScreen.php:10
+msgid "Welcome to Ultimate Reviews"
+msgstr "Willkommen bei Ultimate Reviews"
+
+#: Shortcodes/SubmitReview.php:297
+msgid "What name should be displayed with your review?"
+msgstr "Welcher Name sollte bei Ihrer Rezension angezeigt werden?"
+
+#: Shortcodes/SubmitReview.php:356
+msgid "What title should be displayed with your review?"
+msgstr "Welcher Titel sollte bei Ihrer Rezension angezeigt werden?"
+
+#: Functions/EWD_URP_Upgrade_Box.php:10 html/Dashboard.php:22
+msgid "What you get by upgrading:"
+msgstr "Was bekommen Sie beim Upgrade:"
+
+#: Functions/Register_EWD_URP_Posts_Taxonomies.php:128
+msgid "WooCommerce Order ID:"
+msgstr "WooCommerce-Bestellnummer:"
+
+#: Functions/EWD_URP_WooCommerce_Review_Import.php:79
+msgid "WooCommerce reviews have been succesfully imported."
+msgstr "WooCommerce-Rezension wurden erfolgreich importiert."
+
+#: Shortcodes/SubmitReview.php:596 Shortcodes/SubmitReview.php:777
+msgid "WordPress Login"
+msgstr "WordPress Login"
+
+#: html/WelcomeScreen.php:31
+msgid ""
+"You can create a dedicated page for displaying reviews below, or skip this "
+"step and add your review display form to a page you've already created "
+"manually."
+msgstr ""
+"Sie können unten eine eigene Seite für die Anzeige von Reviews erstellen "
+"oder diesen Schritt überspringen und Ihr Review-Anzeigeformular einer "
+"bereits manuell erstellten Seite hinzufügen."
+
+#: html/WelcomeScreen.php:17
+msgid ""
+"You can create a dedicated submit review page below, or skip this step and "
+"add your submit review form to a page you've already created manually."
+msgstr ""
+"Sie können unten eine dedizierte Seite für die Rezension erstellen oder "
+"diesen Schritt überspringen und das Formular zur Rezension einer bereits "
+"manuell erstellten Seite hinzufügen."
+
+#: Functions/EWD_URP_Submit_Review.php:304
+msgid "You can view the entire review by going to the following link:<br>"
+msgstr ""
+"Sie können die gesamte Rezension anzeigen, indem Sie den folgenden Link "
+"aufrufen: <br>"
+
+#: Functions/EWD_URP_Submit_Review.php:96
+msgid ""
+"You have already submitted a review for a product with that product name. "
+"Please select a different product to review."
+msgstr ""
+"Sie haben bereits eine Bewertung für ein Produkt mit diesem Produktnamen "
+"eingereicht. Bitte wählen Sie ein anderes Produkt zur Überprüfung aus."
+
+#: Functions/EWD_URP_Submit_Review.php:83
+msgid "You have an invalid submission in one or more of your fields:"
+msgstr ""
+"Sie haben in einem oder mehreren Ihrer Felder einen ungültigen Beitrag "
+"eingereicht:"
+
+#: Shortcodes/SubmitReview.php:718
+msgid "You have been successfully logged out via Facebook. "
+msgstr "Sie wurden erfolgreich über Facebook abgemeldet."
+
+#: Shortcodes/SubmitReview.php:726
+msgid "You have been successfully logged out via Twitter. "
+msgstr "Sie wurden erfolgreich über Twitter abgemeldet."
+
+#: Functions/EWD_URP_Submit_Review.php:301
+msgid "You've received a new review for the product"
+msgstr "Sie haben eine neue Rezension für das Produkt erhalten"
+
+#: Functions/EWD_URP_Submit_Review.php:81
+msgid ""
+"Your IP address has been blocked from submitting reviews by the site "
+"administrator."
+msgstr ""
+"Ihre IP-Adresse wurde vom Site-Administrator für das Senden von Bewertungen "
+"gesperrt."
+
+#: Shortcodes/SubmitReview.php:69
+msgid "Your review will be visible once it's approved by an administrator."
+msgstr ""
+"Ihre Rezension wird sichtbar, sobald sie von einem Administrator genehmigt "
+"wurde."

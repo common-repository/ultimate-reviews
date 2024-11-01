@@ -1,0 +1,1 @@
+<div class='ewd-urp-remove-score-filter'>Show all reviews</div>

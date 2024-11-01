@@ -1,0 +1,1 @@
+<div class='ewd-urp-flag-inappropriate' title='Flag review as inappropriate' data-reviewid='<?php echo esc_attr( $this->review->ID ); ?>'></div>
